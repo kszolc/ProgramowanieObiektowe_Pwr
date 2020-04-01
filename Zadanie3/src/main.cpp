@@ -1,4 +1,5 @@
 #include <iostream>
+#include <fstream>
 #include "Vector.hh"
 #include "Matrix.hh"
 #include "SystemOfLinearEquations.hh"
@@ -14,9 +15,13 @@ using namespace std;
 
 int main()
 {
-  SystemOfLinearEquations system; // To tylko przykladowe definicje zmiennej
+  Vector dana;
+  Matrix mat;
+  //dana.readFromFile();
+  cin >> mat;
+  cin >> dana;
 
-  cout << endl
-       << " Start programu " << endl
-       << endl;
+  cout << dana;
+  cout << mat;
+  return 0;
 }

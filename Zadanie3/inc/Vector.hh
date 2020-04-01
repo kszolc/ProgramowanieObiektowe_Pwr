@@ -2,36 +2,46 @@
 
 #include "Size.hh"
 #include <iostream>
+#include <fstream>
 
+using namespace std;
 /*
- *  Tutaj trzeba opisac klase. Jakie pojecie modeluje ta klasa
- *  i jakie ma glowne cechy.
+ *  Defines multidimentional VECTOR.
+ *  Number of dimenstions defines SIZE value
+ *  
+ *  Variables:
+ *  double value[SIZE] - values of vector
+ * 
+ *  Methods:
+ *  
+ *  readFromFile() - reads data from Data.txt file 
  */
 class Vector
 {
-  /*
-   *  Tutaj trzeba wstawic definicje odpowiednich pol i metod prywatnych
-   */
-public:
-  /*
-   *  Tutaj trzeba wstawic definicje odpowiednich metod publicznych
-   */
+  public:
+
+  double value[SIZE];
+
+  int readFromFile();
+
 };
 
 /*
- * To przeciazenie trzeba opisac. Co ono robi. Jaki format
- * danych akceptuje. Jakie jest znaczenie parametrow itd.
- * Szczegoly dotyczace zalecen realizacji opisow mozna
- * znalezc w pliku:
- *    ~bk/edu/kpo/zalecenia.txt 
+ * Inputs value of vector in specific format to object of Vector class
+ * 
+ *  Format:
+ *  [double_value , double_value , double_value]
  */
 std::istream &operator>>(std::istream &stream, Vector &vec);
 
 /*
- * To przeciazenie trzeba opisac. Co ono robi. Jaki format
- * danych akceptuje. Jakie jest znaczenie parametrow itd.
- * Szczegoly dotyczace zalecen realizacji opisow mozna
- * znalezc w pliku:
- *    ~bk/edu/kpo/zalecenia.txt 
+ * Prints vector to output stream
+ * 
+ *  Format:
+ *  [double_value , double_value , double_value]
  */
 std::ostream &operator<<(std::ostream &stream, const Vector &vec);
+
+
+
+

@@ -11,11 +11,12 @@
 
 class LinearEq{
     private:
-        int debug =0;
+        int debug =1;
      
         const double computeLine(int i);
         void errLength(int i);
         void length();
+        void mix();
     public:  
         Vector constTerm;
         Vector matByLines[SIZE];

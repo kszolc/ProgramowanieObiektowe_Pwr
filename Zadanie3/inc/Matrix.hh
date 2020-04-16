@@ -19,12 +19,13 @@ class Matrix
 {
   private:
     const bool isZero(int num, int num2);
-    
+   
+
   public:
     double value[SIZE][SIZE];
-  
+    double mix(); 
     const double determinant();
- 
+    const Matrix hadamard(Matrix m1, Matrix m2);
 };
 
 /*

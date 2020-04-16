@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/a.out.dir/src/Matrix.cpp.o CMakeFiles/a.out.dir/src/SystemOfLinearEquations.cpp.o CMakeFiles/a.out.dir/src/Vector.cpp.o CMakeFiles/a.out.dir/src/main.cpp.o CMakeFiles/a.out.dir/src/sysLinEq.cpp.o  -o a.out 

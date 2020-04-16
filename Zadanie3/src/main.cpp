@@ -2,7 +2,8 @@
 #include <fstream>
 #include "Vector.hh"
 #include "Matrix.hh"
-#include "SystemOfLinearEquations.hh"
+#include "Matrix.hh"
+#include "sysLinEq.hh"
 
 using namespace std;
 
@@ -12,16 +13,36 @@ using namespace std;
  * i tam je umiescic. Ten przyklad pokazuje
  * jedynie absolutne minimum.
  */
+void loadToSystemOfEq(LinearEq eq, Vector v, Matrix m){
+  eq.constTerm = v;
+  for (int i =0;i<SIZE;i++){
+    for(int j=0;j<SIZE;j++){
+      eq.matByLines[i].value[j] = m.value[j][i];
+    }
+  }
+}
 
 int main()
 {
-  Vector dana;
+  Vector con;
   Matrix mat;
+  LinearEq eq;
   //dana.readFromFile();
   cin >> mat;
-  cin >> dana;
+  cin >> con;
 
-  cout << dana;
+  cout << con;
   cout << mat;
+  mat.determinant();
+  eq.constTerm = con;
+  for (int i =0;i<SIZE;i++){
+    for(int j=0;j<SIZE;j++){
+      eq.matByLines[i].value[j] = mat.value[j][i];
+      eq.cp[i].value[j] = mat.value[j][i];
+    }
+  }
+  eq.compute();
+
+
   return 0;
 }

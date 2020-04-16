@@ -21,9 +21,77 @@ class Vector
   public:
 
   double value[SIZE];
-
+/*!
+ *  Load values of vector from file named by user
+ *
+ *  Input type:
+ *  [double_value , double_value , double_value]
+ *
+ *  Returns:
+ *  0 - Flawless read
+ *  1 - Could not open file
+ *  2 - Input type is invalid 
+ */
   int readFromFile();
+/*!
+* Overloading + operator for Vectors
+* 
+* Input:
+* This Vector instance
+* Vector
+*
+* Returns:
+* Sum of two input vectors by Vector type;
+*/
+  Vector operator + (Vector vec2);
 
+  /*!
+* Overloading - operator for Vectors
+* 
+* Input:
+* This Vector instance
+* Vector
+*
+* Returns:
+* difference of two input vectors by Vector type;
+*/
+ // Vector operator - (Vector vec2);
+
+  /*!
+* Overloading * operator for Vector and Number;
+* 
+* Input:
+* This Vector instance
+* Double_value
+*
+* Returns:
+* Multiplication by Vector type;
+*/
+  //Vector operator * (double num);
+
+  /*!
+* Overloading / operator for Vector and Number;
+* 
+* Input:
+* This Vector instance
+* Double_value
+*
+* Returns:
+* Diviction by Vector type;
+*/
+  Vector operator / (double num);
+
+  /*!
+* Overloading * operator for Vectors
+* 
+* Input:
+* Vector
+* Vector
+*
+* Returns:
+* Scalar product of two input vectors by double type;
+*/
+double operator *(Vector vec2);
 };
 
 /*

@@ -1,0 +1,3 @@
+/home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/Zadanie3/CMakeFiles/rebuild_cache.dir
+/home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/Zadanie3/CMakeFiles/a.out.dir
+/home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/Zadanie3/CMakeFiles/edit_cache.dir

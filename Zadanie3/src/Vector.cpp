@@ -39,107 +39,31 @@ std::ostream &operator<<(std::ostream &stream, const Vector &vec){
   return stream;
 }
 
-/*!
-* Overloading + operator for Vectors
-* 
-* Input:
-* Vector
-* Vector
-*
-* Returns:
-* Sum of two input vectors by Vector type;
-*/
-Vector operator +(Vector vec1, Vector vec2){
+
+Vector Vector::operator +(Vector vec2){
   Vector result;
 
-  for(int i = 0; i < SIZE; i++) result.value[i] = vec1.value[i] + vec2.value[i];
+  for(int i = 0; i < SIZE; i++) result.value[i] = value[i] + vec2.value[i];
 
   return result;
 }
-/*!
-* Overloading - operator for Vectors
-* 
-* Input:
-* Vector
-* Vector
-*
-* Returns:
-* difference of two input vectors by Vector type;
-*/
-Vector operator -(Vector vec1, Vector vec2){
-  Vector result;
 
-  for(int i = 0; i < SIZE; i++) result.value[i] = vec1.value[i] - vec2.value[i];
 
-  return result;
-}
-/*!
-* Overloading * operator for Vector and Number;
-* 
-* Input:
-* Vector
-* Double_value
-*
-* Returns:
-* Multiplication by Vector type;
-*/
-Vector operator *(Vector vec1, double num){
+
+Vector Vector::operator/(double num){
   Vector result;
-  for(int i = 0; i < SIZE; i++) result.value[i] = vec1.value[i] *num;
+  for(int i = 0; i < SIZE; i++) result.value[i] = value[i] *num;
   return result;
 }
-Vector operator *(double num,Vector vec1){
-  Vector result;
-  for(int i = 0; i < SIZE; i++) result.value[i] = vec1.value[i] *num;
-  return result;
-}
-/*!
-* Overloading / operator for Vector and Number;
-* 
-* Input:
-* Vector
-* Double_value
-*
-* Returns:
-* Diviction by Vector type;
-*/
-Vector operator/(Vector vec1, double num){
-  Vector result;
-  for(int i = 0; i < SIZE; i++) result.value[i] = vec1.value[i] *num;
-  return result;
-}
-Vector operator /(double num,Vector vec1){
-  Vector result;
-  for(int i = 0; i < SIZE; i++) result.value[i] = vec1.value[i] *num;
-  return result;
-}
-/*!
-* Overloading * operator for Vectors
-* 
-* Input:
-* Vector
-* Vector
-*
-* Returns:
-* Scalar product of two input vectors by double type;
-*/
-double operator *(Vector vec1, Vector vec2){
+
+
+double Vector::operator *(Vector vec2){
   double result = 0;
-  for(int i = 0; i < SIZE; i++) result += vec1.value[i] * vec2.value[i];
+  for(int i = 0; i < SIZE; i++) result += value[i] * vec2.value[i];
   return result;
 }
 
-/*!
- *  Load values of vector from file named by user
- *
- *  Input type:
- *  [double_value , double_value , double_value]
- *
- *  Returns:
- *  0 - Flawless read
- *  1 - Could not open file
- *  2 - Input type is invalid 
- */
+
 int Vector::readFromFile(){
   ifstream dataFile;
 

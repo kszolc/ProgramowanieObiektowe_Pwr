@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/project_name.dir/src/Matrix.cpp.o CMakeFiles/project_name.dir/src/SystemOfLinearEquations.cpp.o CMakeFiles/project_name.dir/src/Vector.cpp.o CMakeFiles/project_name.dir/src/main.cpp.o  -o project_name 

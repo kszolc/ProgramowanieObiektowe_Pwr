@@ -2,6 +2,9 @@
 
 #include "Size.hh"
 #include <iostream>
+#include <algorithm>
+
+
 
 /*
  *  Matrix class
@@ -14,9 +17,14 @@
  */
 class Matrix
 {
+  private:
+    const bool isZero(int num, int num2);
+    
   public:
-  double value[SIZE][SIZE];
+    double value[SIZE][SIZE];
   
+    const double determinant();
+ 
 };
 
 /*

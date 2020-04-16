@@ -108,7 +108,7 @@ int swapCount =0;
 }
 
 const double Matrix::determinant(){
-  bool debug =1; //Strongly recomended to change it to 0, otherwise terminal will be filled with useless info
+  bool debug =0; //Strongly recomended to change it to 0, otherwise terminal will be filled with useless info
   
   int swapCount =0;
    mix();

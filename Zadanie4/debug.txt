@@ -1,0 +1,2963 @@
+
+Program in debug mode ran on:
+Wed Apr 22 21:18:33 2020
+
+
+
+Entering REAL compute function
+We are in reComp function
+Loading data to class
+1.000000
+0.000000
+0.000000
+0.000000
+0.000000
+Loading data to class
+0.000000
+2.000000
+0.000000
+7.000000
+0.000000
+Loading data to class
+0.000000
+0.000000
+3.000000
+0.000000
+0.000000
+Loading data to class
+0.000000
+0.000000
+1.000000
+6.000000
+0.000000
+Loading data to class
+0.000000
+0.000000
+4.000000
+2.000000
+5.000000
+Loading data to class
+1.000000
+2.000000
+3.000000
+4.000000
+5.000000
+printing vector values on stdout
+Done printing
+Divider of column: 0 line: 1 is: 0.000000  (i,i variable: 1.000000 ji variable: 0.000000 )
+computing constant term nr: 1
+2.000000 - 0.000000
+Constant term is: 2.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+2.000000 - 0.000000
+Value nr: 1 is now: 2.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 3 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 4 is now: 0.000000
+Divider of column: 0 line: 2 is: 0.000000  (i,i variable: 1.000000 ji variable: 0.000000 )
+computing constant term nr: 2
+3.000000 - 0.000000
+Constant term is: 3.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+3.000000 - 0.000000
+Value nr: 2 is now: 3.000000
+
+1.000000 - 0.000000
+Value nr: 3 is now: 1.000000
+
+4.000000 - 0.000000
+Value nr: 4 is now: 4.000000
+Divider of column: 0 line: 3 is: 0.000000  (i,i variable: 1.000000 ji variable: 0.000000 )
+computing constant term nr: 3
+4.000000 - 0.000000
+Constant term is: 4.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+7.000000 - 0.000000
+Value nr: 1 is now: 7.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+6.000000 - 0.000000
+Value nr: 3 is now: 6.000000
+
+2.000000 - 0.000000
+Value nr: 4 is now: 2.000000
+Divider of column: 0 line: 4 is: 0.000000  (i,i variable: 1.000000 ji variable: 0.000000 )
+computing constant term nr: 4
+5.000000 - 0.000000
+Constant term is: 5.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 3 is now: 0.000000
+
+5.000000 - 0.000000
+Value nr: 4 is now: 5.000000
+Divider of column: 1 line: 2 is: 0.000000  (i,i variable: 2.000000 ji variable: 0.000000 )
+computing constant term nr: 2
+3.000000 - 0.000000
+Constant term is: 3.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+3.000000 - 0.000000
+Value nr: 2 is now: 3.000000
+
+1.000000 - 0.000000
+Value nr: 3 is now: 1.000000
+
+4.000000 - 0.000000
+Value nr: 4 is now: 4.000000
+Divider of column: 1 line: 3 is: 3.500000  (i,i variable: 2.000000 ji variable: 0.000000 )
+computing constant term nr: 3
+4.000000 - 7.000000
+Constant term is: -3.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+7.000000 - 7.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+6.000000 - 0.000000
+Value nr: 3 is now: 6.000000
+
+2.000000 - 0.000000
+Value nr: 4 is now: 2.000000
+Divider of column: 1 line: 4 is: 0.000000  (i,i variable: 2.000000 ji variable: 0.000000 )
+computing constant term nr: 4
+5.000000 - 0.000000
+Constant term is: 5.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 3 is now: 0.000000
+
+5.000000 - 0.000000
+Value nr: 4 is now: 5.000000
+Divider of column: 2 line: 3 is: 0.000000  (i,i variable: 3.000000 ji variable: 1.000000 )
+computing constant term nr: 3
+-3.000000 - 0.000000
+Constant term is: -3.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+6.000000 - 0.000000
+Value nr: 3 is now: 6.000000
+
+2.000000 - 0.000000
+Value nr: 4 is now: 2.000000
+Divider of column: 2 line: 4 is: 0.000000  (i,i variable: 3.000000 ji variable: 4.000000 )
+computing constant term nr: 4
+5.000000 - 0.000000
+Constant term is: 5.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 3 is now: 0.000000
+
+5.000000 - 0.000000
+Value nr: 4 is now: 5.000000
+Divider of column: 3 line: 4 is: 0.000000  (i,i variable: 6.000000 ji variable: 2.000000 )
+computing constant term nr: 4
+5.000000 - -0.000000
+Constant term is: 5.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 3 is now: 0.000000
+
+5.000000 - 0.000000
+Value nr: 4 is now: 5.000000
+Starting to resolve
+44
+suma 0.000000 + value 5.000000 * result 0.000000
+sum 5.000000
+new result 1.000000
+new line
+34
+suma 0.000000 + value 2.000000 * result 1.000000
+33
+suma 2.000000 + value 6.000000 * result 0.000000
+sum 8.000000
+new result -2.666667
+new line
+24
+suma 0.000000 + value 4.000000 * result 1.000000
+23
+suma 4.000000 + value 1.000000 * result -2.666667
+22
+suma 1.333333 + value 3.000000 * result 0.000000
+sum 4.333333
+new result 1.444444
+new line
+14
+suma 0.000000 + value 0.000000 * result 1.000000
+13
+suma 0.000000 + value 0.000000 * result -2.666667
+12
+suma 0.000000 + value 0.000000 * result 1.444444
+11
+suma 0.000000 + value 2.000000 * result 0.000000
+sum 2.000000
+new result 1.000000
+new line
+04
+suma 0.000000 + value 0.000000 * result 1.000000
+03
+suma 0.000000 + value 0.000000 * result -2.666667
+02
+suma 0.000000 + value 0.000000 * result 1.444444
+01
+suma 0.000000 + value 0.000000 * result 1.000000
+00
+suma 0.000000 + value 1.000000 * result 0.000000
+sum 1.000000
+new result 1.000000
+new line
+printing vector values on stdout
+Done printing
+
+Program in debug mode ran on:
+Wed Apr 22 21:18:40 2020
+
+
+
+Entering REAL compute function
+We are in reComp function
+Loading data to class
+1.000000
+2.000000
+0.000000
+0.000000
+0.000000
+Loading data to class
+0.000000
+2.000000
+0.000000
+7.000000
+0.000000
+Loading data to class
+0.000000
+0.000000
+3.000000
+0.000000
+0.000000
+Loading data to class
+0.000000
+0.000000
+1.000000
+6.000000
+0.000000
+Loading data to class
+0.000000
+0.000000
+4.000000
+2.000000
+5.000000
+Loading data to class
+1.000000
+2.000000
+3.000000
+4.000000
+5.000000
+printing vector values on stdout
+Done printing
+Divider of column: 0 line: 1 is: 2.000000  (i,i variable: 1.000000 ji variable: 0.000000 )
+computing constant term nr: 1
+2.000000 - 2.000000
+Constant term is: 0.000000
+
+
+2.000000 - 2.000000
+Value nr: 0 is now: 0.000000
+
+2.000000 - 0.000000
+Value nr: 1 is now: 2.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 3 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 4 is now: 0.000000
+Divider of column: 0 line: 2 is: 0.000000  (i,i variable: 1.000000 ji variable: 0.000000 )
+computing constant term nr: 2
+3.000000 - 0.000000
+Constant term is: 3.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+3.000000 - 0.000000
+Value nr: 2 is now: 3.000000
+
+1.000000 - 0.000000
+Value nr: 3 is now: 1.000000
+
+4.000000 - 0.000000
+Value nr: 4 is now: 4.000000
+Divider of column: 0 line: 3 is: 0.000000  (i,i variable: 1.000000 ji variable: 0.000000 )
+computing constant term nr: 3
+4.000000 - 0.000000
+Constant term is: 4.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+7.000000 - 0.000000
+Value nr: 1 is now: 7.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+6.000000 - 0.000000
+Value nr: 3 is now: 6.000000
+
+2.000000 - 0.000000
+Value nr: 4 is now: 2.000000
+Divider of column: 0 line: 4 is: 0.000000  (i,i variable: 1.000000 ji variable: 0.000000 )
+computing constant term nr: 4
+5.000000 - 0.000000
+Constant term is: 5.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 3 is now: 0.000000
+
+5.000000 - 0.000000
+Value nr: 4 is now: 5.000000
+Divider of column: 1 line: 2 is: 0.000000  (i,i variable: 2.000000 ji variable: 0.000000 )
+computing constant term nr: 2
+3.000000 - 0.000000
+Constant term is: 3.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+3.000000 - 0.000000
+Value nr: 2 is now: 3.000000
+
+1.000000 - 0.000000
+Value nr: 3 is now: 1.000000
+
+4.000000 - 0.000000
+Value nr: 4 is now: 4.000000
+Divider of column: 1 line: 3 is: 3.500000  (i,i variable: 2.000000 ji variable: 0.000000 )
+computing constant term nr: 3
+4.000000 - 0.000000
+Constant term is: 4.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+7.000000 - 7.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+6.000000 - 0.000000
+Value nr: 3 is now: 6.000000
+
+2.000000 - 0.000000
+Value nr: 4 is now: 2.000000
+Divider of column: 1 line: 4 is: 0.000000  (i,i variable: 2.000000 ji variable: 0.000000 )
+computing constant term nr: 4
+5.000000 - 0.000000
+Constant term is: 5.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 3 is now: 0.000000
+
+5.000000 - 0.000000
+Value nr: 4 is now: 5.000000
+Divider of column: 2 line: 3 is: 0.000000  (i,i variable: 3.000000 ji variable: 1.000000 )
+computing constant term nr: 3
+4.000000 - 0.000000
+Constant term is: 4.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+6.000000 - 0.000000
+Value nr: 3 is now: 6.000000
+
+2.000000 - 0.000000
+Value nr: 4 is now: 2.000000
+Divider of column: 2 line: 4 is: 0.000000  (i,i variable: 3.000000 ji variable: 4.000000 )
+computing constant term nr: 4
+5.000000 - 0.000000
+Constant term is: 5.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 3 is now: 0.000000
+
+5.000000 - 0.000000
+Value nr: 4 is now: 5.000000
+Divider of column: 3 line: 4 is: 0.000000  (i,i variable: 6.000000 ji variable: 2.000000 )
+computing constant term nr: 4
+5.000000 - 0.000000
+Constant term is: 5.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 3 is now: 0.000000
+
+5.000000 - 0.000000
+Value nr: 4 is now: 5.000000
+Starting to resolve
+44
+suma 0.000000 + value 5.000000 * result 0.000000
+sum 5.000000
+new result 1.000000
+new line
+34
+suma 0.000000 + value 2.000000 * result 1.000000
+33
+suma 2.000000 + value 6.000000 * result 0.000000
+sum 8.000000
+new result 2.000000
+new line
+24
+suma 0.000000 + value 4.000000 * result 1.000000
+23
+suma 4.000000 + value 1.000000 * result 2.000000
+22
+suma 6.000000 + value 3.000000 * result 0.000000
+sum 9.000000
+new result 3.000000
+new line
+14
+suma 0.000000 + value 0.000000 * result 1.000000
+13
+suma 0.000000 + value 0.000000 * result 2.000000
+12
+suma 0.000000 + value 0.000000 * result 3.000000
+11
+suma 0.000000 + value 2.000000 * result 0.000000
+sum 2.000000
+new result inf
+new line
+04
+suma 0.000000 + value 0.000000 * result 1.000000
+03
+suma 0.000000 + value 0.000000 * result 2.000000
+02
+suma 0.000000 + value 0.000000 * result 3.000000
+01
+suma 0.000000 + value 0.000000 * result inf
+00
+suma -nan + value 1.000000 * result 0.000000
+sum -nan
+new result -nan
+new line
+printing vector values on stdout
+Done printing
+
+Program in debug mode ran on:
+Wed Apr 22 21:18:47 2020
+
+
+
+Entering REAL compute function
+We are in reComp function
+Loading data to class
+1.000000
+1.000000
+0.000000
+0.000000
+0.000000
+Loading data to class
+0.000000
+2.000000
+0.000000
+7.000000
+0.000000
+Loading data to class
+0.000000
+0.000000
+3.000000
+0.000000
+0.000000
+Loading data to class
+0.000000
+0.000000
+1.000000
+6.000000
+0.000000
+Loading data to class
+0.000000
+0.000000
+4.000000
+2.000000
+5.000000
+Loading data to class
+1.000000
+2.000000
+3.000000
+4.000000
+5.000000
+printing vector values on stdout
+Done printing
+Divider of column: 0 line: 1 is: 1.000000  (i,i variable: 1.000000 ji variable: 0.000000 )
+computing constant term nr: 1
+2.000000 - 1.000000
+Constant term is: 1.000000
+
+
+1.000000 - 1.000000
+Value nr: 0 is now: 0.000000
+
+2.000000 - 0.000000
+Value nr: 1 is now: 2.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 3 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 4 is now: 0.000000
+Divider of column: 0 line: 2 is: 0.000000  (i,i variable: 1.000000 ji variable: 0.000000 )
+computing constant term nr: 2
+3.000000 - 0.000000
+Constant term is: 3.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+3.000000 - 0.000000
+Value nr: 2 is now: 3.000000
+
+1.000000 - 0.000000
+Value nr: 3 is now: 1.000000
+
+4.000000 - 0.000000
+Value nr: 4 is now: 4.000000
+Divider of column: 0 line: 3 is: 0.000000  (i,i variable: 1.000000 ji variable: 0.000000 )
+computing constant term nr: 3
+4.000000 - 0.000000
+Constant term is: 4.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+7.000000 - 0.000000
+Value nr: 1 is now: 7.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+6.000000 - 0.000000
+Value nr: 3 is now: 6.000000
+
+2.000000 - 0.000000
+Value nr: 4 is now: 2.000000
+Divider of column: 0 line: 4 is: 0.000000  (i,i variable: 1.000000 ji variable: 0.000000 )
+computing constant term nr: 4
+5.000000 - 0.000000
+Constant term is: 5.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 3 is now: 0.000000
+
+5.000000 - 0.000000
+Value nr: 4 is now: 5.000000
+Divider of column: 1 line: 2 is: 0.000000  (i,i variable: 2.000000 ji variable: 0.000000 )
+computing constant term nr: 2
+3.000000 - 0.000000
+Constant term is: 3.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+3.000000 - 0.000000
+Value nr: 2 is now: 3.000000
+
+1.000000 - 0.000000
+Value nr: 3 is now: 1.000000
+
+4.000000 - 0.000000
+Value nr: 4 is now: 4.000000
+Divider of column: 1 line: 3 is: 3.500000  (i,i variable: 2.000000 ji variable: 0.000000 )
+computing constant term nr: 3
+4.000000 - 3.500000
+Constant term is: 0.500000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+7.000000 - 7.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+6.000000 - 0.000000
+Value nr: 3 is now: 6.000000
+
+2.000000 - 0.000000
+Value nr: 4 is now: 2.000000
+Divider of column: 1 line: 4 is: 0.000000  (i,i variable: 2.000000 ji variable: 0.000000 )
+computing constant term nr: 4
+5.000000 - 0.000000
+Constant term is: 5.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 3 is now: 0.000000
+
+5.000000 - 0.000000
+Value nr: 4 is now: 5.000000
+Divider of column: 2 line: 3 is: 0.000000  (i,i variable: 3.000000 ji variable: 1.000000 )
+computing constant term nr: 3
+0.500000 - 0.000000
+Constant term is: 0.500000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+6.000000 - 0.000000
+Value nr: 3 is now: 6.000000
+
+2.000000 - 0.000000
+Value nr: 4 is now: 2.000000
+Divider of column: 2 line: 4 is: 0.000000  (i,i variable: 3.000000 ji variable: 4.000000 )
+computing constant term nr: 4
+5.000000 - 0.000000
+Constant term is: 5.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 3 is now: 0.000000
+
+5.000000 - 0.000000
+Value nr: 4 is now: 5.000000
+Divider of column: 3 line: 4 is: 0.000000  (i,i variable: 6.000000 ji variable: 2.000000 )
+computing constant term nr: 4
+5.000000 - 0.000000
+Constant term is: 5.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 3 is now: 0.000000
+
+5.000000 - 0.000000
+Value nr: 4 is now: 5.000000
+Starting to resolve
+44
+suma 0.000000 + value 5.000000 * result 0.000000
+sum 5.000000
+new result 1.000000
+new line
+34
+suma 0.000000 + value 2.000000 * result 1.000000
+33
+suma 2.000000 + value 6.000000 * result 0.000000
+sum 8.000000
+new result 16.000000
+new line
+24
+suma 0.000000 + value 4.000000 * result 1.000000
+23
+suma 4.000000 + value 1.000000 * result 16.000000
+22
+suma 20.000000 + value 3.000000 * result 0.000000
+sum 23.000000
+new result 7.666667
+new line
+14
+suma 0.000000 + value 0.000000 * result 1.000000
+13
+suma 0.000000 + value 0.000000 * result 16.000000
+12
+suma 0.000000 + value 0.000000 * result 7.666667
+11
+suma 0.000000 + value 2.000000 * result 0.000000
+sum 2.000000
+new result 2.000000
+new line
+04
+suma 0.000000 + value 0.000000 * result 1.000000
+03
+suma 0.000000 + value 0.000000 * result 16.000000
+02
+suma 0.000000 + value 0.000000 * result 7.666667
+01
+suma 0.000000 + value 0.000000 * result 2.000000
+00
+suma 0.000000 + value 1.000000 * result 0.000000
+sum 1.000000
+new result 1.000000
+new line
+printing vector values on stdout
+Done printing
+
+Program in debug mode ran on:
+Wed Apr 22 21:19:14 2020
+
+
+
+Entering COMPLEX compute function
+
+Program in debug mode ran on:
+Wed Apr 22 21:19:21 2020
+
+
+
+Entering REAL compute function
+We are in reComp function
+Loading data to class
+1.000000
+1.000000
+0.000000
+0.000000
+0.000000
+Loading data to class
+0.000000
+2.000000
+0.000000
+7.000000
+0.000000
+Loading data to class
+0.000000
+0.000000
+3.000000
+0.000000
+0.000000
+Loading data to class
+0.000000
+0.000000
+1.000000
+6.000000
+0.000000
+Loading data to class
+0.000000
+0.000000
+4.000000
+2.000000
+5.000000
+Loading data to class
+1.000000
+2.000000
+3.000000
+4.000000
+5.000000
+printing vector values on stdout
+Done printing
+Divider of column: 0 line: 1 is: 1.000000  (i,i variable: 1.000000 ji variable: 0.000000 )
+computing constant term nr: 1
+2.000000 - 1.000000
+Constant term is: 1.000000
+
+
+1.000000 - 1.000000
+Value nr: 0 is now: 0.000000
+
+2.000000 - 0.000000
+Value nr: 1 is now: 2.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 3 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 4 is now: 0.000000
+Divider of column: 0 line: 2 is: 0.000000  (i,i variable: 1.000000 ji variable: 0.000000 )
+computing constant term nr: 2
+3.000000 - 0.000000
+Constant term is: 3.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+3.000000 - 0.000000
+Value nr: 2 is now: 3.000000
+
+1.000000 - 0.000000
+Value nr: 3 is now: 1.000000
+
+4.000000 - 0.000000
+Value nr: 4 is now: 4.000000
+Divider of column: 0 line: 3 is: 0.000000  (i,i variable: 1.000000 ji variable: 0.000000 )
+computing constant term nr: 3
+4.000000 - 0.000000
+Constant term is: 4.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+7.000000 - 0.000000
+Value nr: 1 is now: 7.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+6.000000 - 0.000000
+Value nr: 3 is now: 6.000000
+
+2.000000 - 0.000000
+Value nr: 4 is now: 2.000000
+Divider of column: 0 line: 4 is: 0.000000  (i,i variable: 1.000000 ji variable: 0.000000 )
+computing constant term nr: 4
+5.000000 - 0.000000
+Constant term is: 5.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 3 is now: 0.000000
+
+5.000000 - 0.000000
+Value nr: 4 is now: 5.000000
+Divider of column: 1 line: 2 is: 0.000000  (i,i variable: 2.000000 ji variable: 0.000000 )
+computing constant term nr: 2
+3.000000 - 0.000000
+Constant term is: 3.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+3.000000 - 0.000000
+Value nr: 2 is now: 3.000000
+
+1.000000 - 0.000000
+Value nr: 3 is now: 1.000000
+
+4.000000 - 0.000000
+Value nr: 4 is now: 4.000000
+Divider of column: 1 line: 3 is: 3.500000  (i,i variable: 2.000000 ji variable: 0.000000 )
+computing constant term nr: 3
+4.000000 - 3.500000
+Constant term is: 0.500000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+7.000000 - 7.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+6.000000 - 0.000000
+Value nr: 3 is now: 6.000000
+
+2.000000 - 0.000000
+Value nr: 4 is now: 2.000000
+Divider of column: 1 line: 4 is: 0.000000  (i,i variable: 2.000000 ji variable: 0.000000 )
+computing constant term nr: 4
+5.000000 - 0.000000
+Constant term is: 5.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 3 is now: 0.000000
+
+5.000000 - 0.000000
+Value nr: 4 is now: 5.000000
+Divider of column: 2 line: 3 is: 0.000000  (i,i variable: 3.000000 ji variable: 1.000000 )
+computing constant term nr: 3
+0.500000 - 0.000000
+Constant term is: 0.500000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+6.000000 - 0.000000
+Value nr: 3 is now: 6.000000
+
+2.000000 - 0.000000
+Value nr: 4 is now: 2.000000
+Divider of column: 2 line: 4 is: 0.000000  (i,i variable: 3.000000 ji variable: 4.000000 )
+computing constant term nr: 4
+5.000000 - 0.000000
+Constant term is: 5.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 3 is now: 0.000000
+
+5.000000 - 0.000000
+Value nr: 4 is now: 5.000000
+Divider of column: 3 line: 4 is: 0.000000  (i,i variable: 6.000000 ji variable: 2.000000 )
+computing constant term nr: 4
+5.000000 - 0.000000
+Constant term is: 5.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 3 is now: 0.000000
+
+5.000000 - 0.000000
+Value nr: 4 is now: 5.000000
+Starting to resolve
+44
+suma 0.000000 + value 5.000000 * result 0.000000
+sum 5.000000
+new result 1.000000
+new line
+34
+suma 0.000000 + value 2.000000 * result 1.000000
+33
+suma 2.000000 + value 6.000000 * result 0.000000
+sum 8.000000
+new result 16.000000
+new line
+24
+suma 0.000000 + value 4.000000 * result 1.000000
+23
+suma 4.000000 + value 1.000000 * result 16.000000
+22
+suma 20.000000 + value 3.000000 * result 0.000000
+sum 23.000000
+new result 7.666667
+new line
+14
+suma 0.000000 + value 0.000000 * result 1.000000
+13
+suma 0.000000 + value 0.000000 * result 16.000000
+12
+suma 0.000000 + value 0.000000 * result 7.666667
+11
+suma 0.000000 + value 2.000000 * result 0.000000
+sum 2.000000
+new result 2.000000
+new line
+04
+suma 0.000000 + value 0.000000 * result 1.000000
+03
+suma 0.000000 + value 0.000000 * result 16.000000
+02
+suma 0.000000 + value 0.000000 * result 7.666667
+01
+suma 0.000000 + value 0.000000 * result 2.000000
+00
+suma 0.000000 + value 1.000000 * result 0.000000
+sum 1.000000
+new result 1.000000
+new line
+printing vector values on stdout
+Done printing
+
+Program in debug mode ran on:
+Wed Apr 22 21:21:12 2020
+
+
+
+Entering REAL compute function
+We are in reComp function
+Loading data to class
+1.000000
+1.000000
+0.000000
+0.000000
+0.000000
+Loading data to class
+0.000000
+2.000000
+0.000000
+7.000000
+0.000000
+Loading data to class
+0.000000
+0.000000
+3.000000
+0.000000
+0.000000
+Loading data to class
+0.000000
+0.000000
+1.000000
+6.000000
+0.000000
+Loading data to class
+0.000000
+0.000000
+4.000000
+2.000000
+5.000000
+Loading data to class
+1.000000
+2.000000
+3.000000
+4.000000
+5.000000
+printing vector values on stdout
+Done printing
+Divider of column: 0 line: 1 is: 1.000000  (i,i variable: 1.000000 ji variable: 0.000000 )
+computing constant term nr: 1
+2.000000 - 1.000000
+Constant term is: 1.000000
+
+
+1.000000 - 1.000000
+Value nr: 0 is now: 0.000000
+
+2.000000 - 0.000000
+Value nr: 1 is now: 2.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 3 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 4 is now: 0.000000
+Divider of column: 0 line: 2 is: 0.000000  (i,i variable: 1.000000 ji variable: 0.000000 )
+computing constant term nr: 2
+3.000000 - 0.000000
+Constant term is: 3.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+3.000000 - 0.000000
+Value nr: 2 is now: 3.000000
+
+1.000000 - 0.000000
+Value nr: 3 is now: 1.000000
+
+4.000000 - 0.000000
+Value nr: 4 is now: 4.000000
+Divider of column: 0 line: 3 is: 0.000000  (i,i variable: 1.000000 ji variable: 0.000000 )
+computing constant term nr: 3
+4.000000 - 0.000000
+Constant term is: 4.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+7.000000 - 0.000000
+Value nr: 1 is now: 7.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+6.000000 - 0.000000
+Value nr: 3 is now: 6.000000
+
+2.000000 - 0.000000
+Value nr: 4 is now: 2.000000
+Divider of column: 0 line: 4 is: 0.000000  (i,i variable: 1.000000 ji variable: 0.000000 )
+computing constant term nr: 4
+5.000000 - 0.000000
+Constant term is: 5.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 3 is now: 0.000000
+
+5.000000 - 0.000000
+Value nr: 4 is now: 5.000000
+Divider of column: 1 line: 2 is: 0.000000  (i,i variable: 2.000000 ji variable: 0.000000 )
+computing constant term nr: 2
+3.000000 - 0.000000
+Constant term is: 3.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+3.000000 - 0.000000
+Value nr: 2 is now: 3.000000
+
+1.000000 - 0.000000
+Value nr: 3 is now: 1.000000
+
+4.000000 - 0.000000
+Value nr: 4 is now: 4.000000
+Divider of column: 1 line: 3 is: 3.500000  (i,i variable: 2.000000 ji variable: 0.000000 )
+computing constant term nr: 3
+4.000000 - 3.500000
+Constant term is: 0.500000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+7.000000 - 7.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+6.000000 - 0.000000
+Value nr: 3 is now: 6.000000
+
+2.000000 - 0.000000
+Value nr: 4 is now: 2.000000
+Divider of column: 1 line: 4 is: 0.000000  (i,i variable: 2.000000 ji variable: 0.000000 )
+computing constant term nr: 4
+5.000000 - 0.000000
+Constant term is: 5.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 3 is now: 0.000000
+
+5.000000 - 0.000000
+Value nr: 4 is now: 5.000000
+Divider of column: 2 line: 3 is: 0.000000  (i,i variable: 3.000000 ji variable: 1.000000 )
+computing constant term nr: 3
+0.500000 - 0.000000
+Constant term is: 0.500000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+6.000000 - 0.000000
+Value nr: 3 is now: 6.000000
+
+2.000000 - 0.000000
+Value nr: 4 is now: 2.000000
+Divider of column: 2 line: 4 is: 0.000000  (i,i variable: 3.000000 ji variable: 4.000000 )
+computing constant term nr: 4
+5.000000 - 0.000000
+Constant term is: 5.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 3 is now: 0.000000
+
+5.000000 - 0.000000
+Value nr: 4 is now: 5.000000
+Divider of column: 3 line: 4 is: 0.000000  (i,i variable: 6.000000 ji variable: 2.000000 )
+computing constant term nr: 4
+5.000000 - 0.000000
+Constant term is: 5.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 3 is now: 0.000000
+
+5.000000 - 0.000000
+Value nr: 4 is now: 5.000000
+Starting to resolve
+44
+suma 0.000000 + value 5.000000 * result 0.000000
+sum 5.000000
+new result 1.000000
+new line
+34
+suma 0.000000 + value 2.000000 * result 1.000000
+33
+suma 2.000000 + value 6.000000 * result 0.000000
+sum 8.000000
+new result 16.000000
+new line
+24
+suma 0.000000 + value 4.000000 * result 1.000000
+23
+suma 4.000000 + value 1.000000 * result 16.000000
+22
+suma 20.000000 + value 3.000000 * result 0.000000
+sum 23.000000
+new result 7.666667
+new line
+14
+suma 0.000000 + value 0.000000 * result 1.000000
+13
+suma 0.000000 + value 0.000000 * result 16.000000
+12
+suma 0.000000 + value 0.000000 * result 7.666667
+11
+suma 0.000000 + value 2.000000 * result 0.000000
+sum 2.000000
+new result 2.000000
+new line
+04
+suma 0.000000 + value 0.000000 * result 1.000000
+03
+suma 0.000000 + value 0.000000 * result 16.000000
+02
+suma 0.000000 + value 0.000000 * result 7.666667
+01
+suma 0.000000 + value 0.000000 * result 2.000000
+00
+suma 0.000000 + value 1.000000 * result 0.000000
+sum 1.000000
+new result 1.000000
+new line
+printing vector values on stdout
+Done printing
+
+Program in debug mode ran on:
+Wed Apr 22 21:21:32 2020
+
+
+
+Entering REAL compute function
+We are in reComp function
+Loading data to class
+1.000000
+1.000000
+0.000000
+0.000000
+0.000000
+Loading data to class
+0.000000
+2.000000
+0.000000
+7.000000
+0.000000
+Loading data to class
+0.000000
+0.000000
+3.000000
+0.000000
+0.000000
+Loading data to class
+0.000000
+0.000000
+1.000000
+6.000000
+0.000000
+Loading data to class
+0.000000
+0.000000
+4.000000
+2.000000
+5.000000
+Loading data to class
+1.000000
+2.000000
+3.000000
+4.000000
+5.000000
+printing vector values on stdout
+Done printing
+Divider of column: 0 line: 1 is: 1.000000  (i,i variable: 1.000000 ji variable: 0.000000 )
+computing constant term nr: 1
+2.000000 - 1.000000
+Constant term is: 1.000000
+
+
+1.000000 - 1.000000
+Value nr: 0 is now: 0.000000
+
+2.000000 - 0.000000
+Value nr: 1 is now: 2.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 3 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 4 is now: 0.000000
+Divider of column: 0 line: 2 is: 0.000000  (i,i variable: 1.000000 ji variable: 0.000000 )
+computing constant term nr: 2
+3.000000 - 0.000000
+Constant term is: 3.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+3.000000 - 0.000000
+Value nr: 2 is now: 3.000000
+
+1.000000 - 0.000000
+Value nr: 3 is now: 1.000000
+
+4.000000 - 0.000000
+Value nr: 4 is now: 4.000000
+Divider of column: 0 line: 3 is: 0.000000  (i,i variable: 1.000000 ji variable: 0.000000 )
+computing constant term nr: 3
+4.000000 - 0.000000
+Constant term is: 4.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+7.000000 - 0.000000
+Value nr: 1 is now: 7.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+6.000000 - 0.000000
+Value nr: 3 is now: 6.000000
+
+2.000000 - 0.000000
+Value nr: 4 is now: 2.000000
+Divider of column: 0 line: 4 is: 0.000000  (i,i variable: 1.000000 ji variable: 0.000000 )
+computing constant term nr: 4
+5.000000 - 0.000000
+Constant term is: 5.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 3 is now: 0.000000
+
+5.000000 - 0.000000
+Value nr: 4 is now: 5.000000
+Divider of column: 1 line: 2 is: 0.000000  (i,i variable: 2.000000 ji variable: 0.000000 )
+computing constant term nr: 2
+3.000000 - 0.000000
+Constant term is: 3.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+3.000000 - 0.000000
+Value nr: 2 is now: 3.000000
+
+1.000000 - 0.000000
+Value nr: 3 is now: 1.000000
+
+4.000000 - 0.000000
+Value nr: 4 is now: 4.000000
+Divider of column: 1 line: 3 is: 3.500000  (i,i variable: 2.000000 ji variable: 0.000000 )
+computing constant term nr: 3
+4.000000 - 3.500000
+Constant term is: 0.500000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+7.000000 - 7.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+6.000000 - 0.000000
+Value nr: 3 is now: 6.000000
+
+2.000000 - 0.000000
+Value nr: 4 is now: 2.000000
+Divider of column: 1 line: 4 is: 0.000000  (i,i variable: 2.000000 ji variable: 0.000000 )
+computing constant term nr: 4
+5.000000 - 0.000000
+Constant term is: 5.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 3 is now: 0.000000
+
+5.000000 - 0.000000
+Value nr: 4 is now: 5.000000
+Divider of column: 2 line: 3 is: 0.000000  (i,i variable: 3.000000 ji variable: 1.000000 )
+computing constant term nr: 3
+0.500000 - 0.000000
+Constant term is: 0.500000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+6.000000 - 0.000000
+Value nr: 3 is now: 6.000000
+
+2.000000 - 0.000000
+Value nr: 4 is now: 2.000000
+Divider of column: 2 line: 4 is: 0.000000  (i,i variable: 3.000000 ji variable: 4.000000 )
+computing constant term nr: 4
+5.000000 - 0.000000
+Constant term is: 5.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 3 is now: 0.000000
+
+5.000000 - 0.000000
+Value nr: 4 is now: 5.000000
+Divider of column: 3 line: 4 is: 0.000000  (i,i variable: 6.000000 ji variable: 2.000000 )
+computing constant term nr: 4
+5.000000 - 0.000000
+Constant term is: 5.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 3 is now: 0.000000
+
+5.000000 - 0.000000
+Value nr: 4 is now: 5.000000
+Starting to resolve
+44
+suma 0.000000 + value 5.000000 * result 0.000000
+sum 5.000000
+new result 1.000000
+new line
+34
+suma 0.000000 + value 2.000000 * result 1.000000
+33
+suma 2.000000 + value 6.000000 * result 0.000000
+sum 8.000000
+new result 16.000000
+new line
+24
+suma 0.000000 + value 4.000000 * result 1.000000
+23
+suma 4.000000 + value 1.000000 * result 16.000000
+22
+suma 20.000000 + value 3.000000 * result 0.000000
+sum 23.000000
+new result 7.666667
+new line
+14
+suma 0.000000 + value 0.000000 * result 1.000000
+13
+suma 0.000000 + value 0.000000 * result 16.000000
+12
+suma 0.000000 + value 0.000000 * result 7.666667
+11
+suma 0.000000 + value 2.000000 * result 0.000000
+sum 2.000000
+new result 2.000000
+new line
+04
+suma 0.000000 + value 0.000000 * result 1.000000
+03
+suma 0.000000 + value 0.000000 * result 16.000000
+02
+suma 0.000000 + value 0.000000 * result 7.666667
+01
+suma 0.000000 + value 0.000000 * result 2.000000
+00
+suma 0.000000 + value 1.000000 * result 0.000000
+sum 1.000000
+new result 1.000000
+new line
+printing vector values on stdout
+Done printing
+
+Program in debug mode ran on:
+Wed Apr 22 21:30:09 2020
+
+
+
+Entering REAL compute function
+We are in reComp function
+Loading data to class
+1.000000
+1.000000
+0.000000
+0.000000
+0.000000
+Loading data to class
+0.000000
+2.000000
+0.000000
+7.000000
+0.000000
+Loading data to class
+0.000000
+0.000000
+3.000000
+0.000000
+0.000000
+Loading data to class
+0.000000
+0.000000
+1.000000
+6.000000
+0.000000
+Loading data to class
+0.000000
+0.000000
+4.000000
+2.000000
+5.000000
+Loading data to class
+1.000000
+2.000000
+3.000000
+4.000000
+5.000000
+printing vector values on stdout
+Done printing
+Divider of column: 0 line: 1 is: 1.000000  (i,i variable: 1.000000 ji variable: 0.000000 )
+computing constant term nr: 1
+2.000000 - 1.000000
+Constant term is: 1.000000
+
+
+1.000000 - 1.000000
+Value nr: 0 is now: 0.000000
+
+2.000000 - 0.000000
+Value nr: 1 is now: 2.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 3 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 4 is now: 0.000000
+Divider of column: 0 line: 2 is: 0.000000  (i,i variable: 1.000000 ji variable: 0.000000 )
+computing constant term nr: 2
+3.000000 - 0.000000
+Constant term is: 3.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+3.000000 - 0.000000
+Value nr: 2 is now: 3.000000
+
+1.000000 - 0.000000
+Value nr: 3 is now: 1.000000
+
+4.000000 - 0.000000
+Value nr: 4 is now: 4.000000
+Divider of column: 0 line: 3 is: 0.000000  (i,i variable: 1.000000 ji variable: 0.000000 )
+computing constant term nr: 3
+4.000000 - 0.000000
+Constant term is: 4.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+7.000000 - 0.000000
+Value nr: 1 is now: 7.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+6.000000 - 0.000000
+Value nr: 3 is now: 6.000000
+
+2.000000 - 0.000000
+Value nr: 4 is now: 2.000000
+Divider of column: 0 line: 4 is: 0.000000  (i,i variable: 1.000000 ji variable: 0.000000 )
+computing constant term nr: 4
+5.000000 - 0.000000
+Constant term is: 5.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 3 is now: 0.000000
+
+5.000000 - 0.000000
+Value nr: 4 is now: 5.000000
+Divider of column: 1 line: 2 is: 0.000000  (i,i variable: 2.000000 ji variable: 0.000000 )
+computing constant term nr: 2
+3.000000 - 0.000000
+Constant term is: 3.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+3.000000 - 0.000000
+Value nr: 2 is now: 3.000000
+
+1.000000 - 0.000000
+Value nr: 3 is now: 1.000000
+
+4.000000 - 0.000000
+Value nr: 4 is now: 4.000000
+Divider of column: 1 line: 3 is: 3.500000  (i,i variable: 2.000000 ji variable: 0.000000 )
+computing constant term nr: 3
+4.000000 - 3.500000
+Constant term is: 0.500000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+7.000000 - 7.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+6.000000 - 0.000000
+Value nr: 3 is now: 6.000000
+
+2.000000 - 0.000000
+Value nr: 4 is now: 2.000000
+Divider of column: 1 line: 4 is: 0.000000  (i,i variable: 2.000000 ji variable: 0.000000 )
+computing constant term nr: 4
+5.000000 - 0.000000
+Constant term is: 5.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 3 is now: 0.000000
+
+5.000000 - 0.000000
+Value nr: 4 is now: 5.000000
+Divider of column: 2 line: 3 is: 0.000000  (i,i variable: 3.000000 ji variable: 1.000000 )
+computing constant term nr: 3
+0.500000 - 0.000000
+Constant term is: 0.500000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+6.000000 - 0.000000
+Value nr: 3 is now: 6.000000
+
+2.000000 - 0.000000
+Value nr: 4 is now: 2.000000
+Divider of column: 2 line: 4 is: 0.000000  (i,i variable: 3.000000 ji variable: 4.000000 )
+computing constant term nr: 4
+5.000000 - 0.000000
+Constant term is: 5.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 3 is now: 0.000000
+
+5.000000 - 0.000000
+Value nr: 4 is now: 5.000000
+Divider of column: 3 line: 4 is: 0.000000  (i,i variable: 6.000000 ji variable: 2.000000 )
+computing constant term nr: 4
+5.000000 - 0.000000
+Constant term is: 5.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 3 is now: 0.000000
+
+5.000000 - 0.000000
+Value nr: 4 is now: 5.000000
+Starting to resolve
+44
+suma 0.000000 + value 5.000000 * result 0.000000
+sum 5.000000
+new result 1.000000
+new line
+34
+suma 0.000000 + value 2.000000 * result 1.000000
+33
+suma 2.000000 + value 6.000000 * result 0.000000
+sum 8.000000
+new result 16.000000
+new line
+24
+suma 0.000000 + value 4.000000 * result 1.000000
+23
+suma 4.000000 + value 1.000000 * result 16.000000
+22
+suma 20.000000 + value 3.000000 * result 0.000000
+sum 23.000000
+new result 7.666667
+new line
+14
+suma 0.000000 + value 0.000000 * result 1.000000
+13
+suma 0.000000 + value 0.000000 * result 16.000000
+12
+suma 0.000000 + value 0.000000 * result 7.666667
+11
+suma 0.000000 + value 2.000000 * result 0.000000
+sum 2.000000
+new result 2.000000
+new line
+04
+suma 0.000000 + value 0.000000 * result 1.000000
+03
+suma 0.000000 + value 0.000000 * result 16.000000
+02
+suma 0.000000 + value 0.000000 * result 7.666667
+01
+suma 0.000000 + value 0.000000 * result 2.000000
+00
+suma 0.000000 + value 1.000000 * result 0.000000
+sum 1.000000
+new result 1.000000
+new line
+printing vector values on stdout
+Done printing
+
+Program in debug mode ran on:
+Wed Apr 22 21:30:57 2020
+
+
+
+Entering REAL compute function
+We are in reComp function
+Loading data to class
+1.000000
+1.000000
+0.000000
+0.000000
+0.000000
+Loading data to class
+0.000000
+2.000000
+0.000000
+7.000000
+0.000000
+Loading data to class
+0.000000
+0.000000
+3.000000
+0.000000
+0.000000
+Loading data to class
+0.000000
+0.000000
+1.000000
+6.000000
+0.000000
+Loading data to class
+0.000000
+0.000000
+4.000000
+2.000000
+5.000000
+Loading data to class
+1.000000
+2.000000
+3.000000
+4.000000
+5.000000
+printing vector values on stdout
+Done printing
+Divider of column: 0 line: 1 is: 1.000000  (i,i variable: 1.000000 ji variable: 0.000000 )
+computing constant term nr: 1
+2.000000 - 1.000000
+Constant term is: 1.000000
+
+
+1.000000 - 1.000000
+Value nr: 0 is now: 0.000000
+
+2.000000 - 0.000000
+Value nr: 1 is now: 2.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 3 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 4 is now: 0.000000
+Divider of column: 0 line: 2 is: 0.000000  (i,i variable: 1.000000 ji variable: 0.000000 )
+computing constant term nr: 2
+3.000000 - 0.000000
+Constant term is: 3.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+3.000000 - 0.000000
+Value nr: 2 is now: 3.000000
+
+1.000000 - 0.000000
+Value nr: 3 is now: 1.000000
+
+4.000000 - 0.000000
+Value nr: 4 is now: 4.000000
+Divider of column: 0 line: 3 is: 0.000000  (i,i variable: 1.000000 ji variable: 0.000000 )
+computing constant term nr: 3
+4.000000 - 0.000000
+Constant term is: 4.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+7.000000 - 0.000000
+Value nr: 1 is now: 7.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+6.000000 - 0.000000
+Value nr: 3 is now: 6.000000
+
+2.000000 - 0.000000
+Value nr: 4 is now: 2.000000
+Divider of column: 0 line: 4 is: 0.000000  (i,i variable: 1.000000 ji variable: 0.000000 )
+computing constant term nr: 4
+5.000000 - 0.000000
+Constant term is: 5.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 3 is now: 0.000000
+
+5.000000 - 0.000000
+Value nr: 4 is now: 5.000000
+Divider of column: 1 line: 2 is: 0.000000  (i,i variable: 2.000000 ji variable: 0.000000 )
+computing constant term nr: 2
+3.000000 - 0.000000
+Constant term is: 3.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+3.000000 - 0.000000
+Value nr: 2 is now: 3.000000
+
+1.000000 - 0.000000
+Value nr: 3 is now: 1.000000
+
+4.000000 - 0.000000
+Value nr: 4 is now: 4.000000
+Divider of column: 1 line: 3 is: 3.500000  (i,i variable: 2.000000 ji variable: 0.000000 )
+computing constant term nr: 3
+4.000000 - 3.500000
+Constant term is: 0.500000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+7.000000 - 7.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+6.000000 - 0.000000
+Value nr: 3 is now: 6.000000
+
+2.000000 - 0.000000
+Value nr: 4 is now: 2.000000
+Divider of column: 1 line: 4 is: 0.000000  (i,i variable: 2.000000 ji variable: 0.000000 )
+computing constant term nr: 4
+5.000000 - 0.000000
+Constant term is: 5.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 3 is now: 0.000000
+
+5.000000 - 0.000000
+Value nr: 4 is now: 5.000000
+Divider of column: 2 line: 3 is: 0.000000  (i,i variable: 3.000000 ji variable: 1.000000 )
+computing constant term nr: 3
+0.500000 - 0.000000
+Constant term is: 0.500000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+6.000000 - 0.000000
+Value nr: 3 is now: 6.000000
+
+2.000000 - 0.000000
+Value nr: 4 is now: 2.000000
+Divider of column: 2 line: 4 is: 0.000000  (i,i variable: 3.000000 ji variable: 4.000000 )
+computing constant term nr: 4
+5.000000 - 0.000000
+Constant term is: 5.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 3 is now: 0.000000
+
+5.000000 - 0.000000
+Value nr: 4 is now: 5.000000
+Divider of column: 3 line: 4 is: 0.000000  (i,i variable: 6.000000 ji variable: 2.000000 )
+computing constant term nr: 4
+5.000000 - 0.000000
+Constant term is: 5.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 3 is now: 0.000000
+
+5.000000 - 0.000000
+Value nr: 4 is now: 5.000000
+Starting to resolve
+44
+suma 0.000000 + value 5.000000 * result 0.000000
+sum 5.000000
+new result 1.000000
+new line
+34
+suma 0.000000 + value 2.000000 * result 1.000000
+33
+suma 2.000000 + value 6.000000 * result 0.000000
+sum 8.000000
+new result 16.000000
+new line
+24
+suma 0.000000 + value 4.000000 * result 1.000000
+23
+suma 4.000000 + value 1.000000 * result 16.000000
+22
+suma 20.000000 + value 3.000000 * result 0.000000
+sum 23.000000
+new result 7.666667
+new line
+14
+suma 0.000000 + value 0.000000 * result 1.000000
+13
+suma 0.000000 + value 0.000000 * result 16.000000
+12
+suma 0.000000 + value 0.000000 * result 7.666667
+11
+suma 0.000000 + value 2.000000 * result 0.000000
+sum 2.000000
+new result 2.000000
+new line
+04
+suma 0.000000 + value 0.000000 * result 1.000000
+03
+suma 0.000000 + value 0.000000 * result 16.000000
+02
+suma 0.000000 + value 0.000000 * result 7.666667
+01
+suma 0.000000 + value 0.000000 * result 2.000000
+00
+suma 0.000000 + value 1.000000 * result 0.000000
+sum 1.000000
+new result 1.000000
+new line
+printing vector values on stdout
+Done printing
+
+Program in debug mode ran on:
+Wed Apr 22 21:50:44 2020
+
+
+
+Entering REAL compute function
+We are in reComp function
+Loading data to class
+1.000000
+1.000000
+0.000000
+0.000000
+0.000000
+Loading data to class
+0.000000
+2.000000
+0.000000
+7.000000
+0.000000
+Loading data to class
+0.000000
+0.000000
+3.000000
+0.000000
+0.000000
+Loading data to class
+0.000000
+0.000000
+1.000000
+6.000000
+0.000000
+Loading data to class
+0.000000
+0.000000
+4.000000
+2.000000
+5.000000
+Loading data to class
+1.000000
+2.000000
+3.000000
+4.000000
+5.000000
+printing vector values on stdout
+Done printing
+Divider of column: 0 line: 1 is: 1.000000  (i,i variable: 1.000000 ji variable: 0.000000 )
+computing constant term nr: 1
+2.000000 - 1.000000
+Constant term is: 1.000000
+
+
+1.000000 - 1.000000
+Value nr: 0 is now: 0.000000
+
+2.000000 - 0.000000
+Value nr: 1 is now: 2.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 3 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 4 is now: 0.000000
+Divider of column: 0 line: 2 is: 0.000000  (i,i variable: 1.000000 ji variable: 0.000000 )
+computing constant term nr: 2
+3.000000 - 0.000000
+Constant term is: 3.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+3.000000 - 0.000000
+Value nr: 2 is now: 3.000000
+
+1.000000 - 0.000000
+Value nr: 3 is now: 1.000000
+
+4.000000 - 0.000000
+Value nr: 4 is now: 4.000000
+Divider of column: 0 line: 3 is: 0.000000  (i,i variable: 1.000000 ji variable: 0.000000 )
+computing constant term nr: 3
+4.000000 - 0.000000
+Constant term is: 4.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+7.000000 - 0.000000
+Value nr: 1 is now: 7.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+6.000000 - 0.000000
+Value nr: 3 is now: 6.000000
+
+2.000000 - 0.000000
+Value nr: 4 is now: 2.000000
+Divider of column: 0 line: 4 is: 0.000000  (i,i variable: 1.000000 ji variable: 0.000000 )
+computing constant term nr: 4
+5.000000 - 0.000000
+Constant term is: 5.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 3 is now: 0.000000
+
+5.000000 - 0.000000
+Value nr: 4 is now: 5.000000
+Divider of column: 1 line: 2 is: 0.000000  (i,i variable: 2.000000 ji variable: 0.000000 )
+computing constant term nr: 2
+3.000000 - 0.000000
+Constant term is: 3.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+3.000000 - 0.000000
+Value nr: 2 is now: 3.000000
+
+1.000000 - 0.000000
+Value nr: 3 is now: 1.000000
+
+4.000000 - 0.000000
+Value nr: 4 is now: 4.000000
+Divider of column: 1 line: 3 is: 3.500000  (i,i variable: 2.000000 ji variable: 0.000000 )
+computing constant term nr: 3
+4.000000 - 3.500000
+Constant term is: 0.500000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+7.000000 - 7.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+6.000000 - 0.000000
+Value nr: 3 is now: 6.000000
+
+2.000000 - 0.000000
+Value nr: 4 is now: 2.000000
+Divider of column: 1 line: 4 is: 0.000000  (i,i variable: 2.000000 ji variable: 0.000000 )
+computing constant term nr: 4
+5.000000 - 0.000000
+Constant term is: 5.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 3 is now: 0.000000
+
+5.000000 - 0.000000
+Value nr: 4 is now: 5.000000
+Divider of column: 2 line: 3 is: 0.000000  (i,i variable: 3.000000 ji variable: 1.000000 )
+computing constant term nr: 3
+0.500000 - 0.000000
+Constant term is: 0.500000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+6.000000 - 0.000000
+Value nr: 3 is now: 6.000000
+
+2.000000 - 0.000000
+Value nr: 4 is now: 2.000000
+Divider of column: 2 line: 4 is: 0.000000  (i,i variable: 3.000000 ji variable: 4.000000 )
+computing constant term nr: 4
+5.000000 - 0.000000
+Constant term is: 5.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 3 is now: 0.000000
+
+5.000000 - 0.000000
+Value nr: 4 is now: 5.000000
+Divider of column: 3 line: 4 is: 0.000000  (i,i variable: 6.000000 ji variable: 2.000000 )
+computing constant term nr: 4
+5.000000 - 0.000000
+Constant term is: 5.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 3 is now: 0.000000
+
+5.000000 - 0.000000
+Value nr: 4 is now: 5.000000
+Starting to resolve
+44
+suma 0.000000 + value 5.000000 * result 0.000000
+sum 5.000000
+new result 1.000000
+new line
+34
+suma 0.000000 + value 2.000000 * result 1.000000
+33
+suma 2.000000 + value 6.000000 * result 0.000000
+sum 8.000000
+new result 16.000000
+new line
+24
+suma 0.000000 + value 4.000000 * result 1.000000
+23
+suma 4.000000 + value 1.000000 * result 16.000000
+22
+suma 20.000000 + value 3.000000 * result 0.000000
+sum 23.000000
+new result 7.666667
+new line
+14
+suma 0.000000 + value 0.000000 * result 1.000000
+13
+suma 0.000000 + value 0.000000 * result 16.000000
+12
+suma 0.000000 + value 0.000000 * result 7.666667
+11
+suma 0.000000 + value 2.000000 * result 0.000000
+sum 2.000000
+new result 2.000000
+new line
+04
+suma 0.000000 + value 0.000000 * result 1.000000
+03
+suma 0.000000 + value 0.000000 * result 16.000000
+02
+suma 0.000000 + value 0.000000 * result 7.666667
+01
+suma 0.000000 + value 0.000000 * result 2.000000
+00
+suma 0.000000 + value 1.000000 * result 0.000000
+sum 1.000000
+new result 1.000000
+new line
+printing vector values on stdout
+Done printing
+
+Program in debug mode ran on:
+Wed Apr 22 21:53:44 2020
+
+
+
+Entering REAL compute function
+We are in reComp function
+Loading data to class by vector form
+1.000000
+1.000000
+0.000000
+0.000000
+0.000000
+Loading data to class by vector form
+0.000000
+2.000000
+0.000000
+7.000000
+0.000000
+Loading data to class by vector form
+0.000000
+0.000000
+3.000000
+0.000000
+0.000000
+Loading data to class by vector form
+0.000000
+0.000000
+1.000000
+6.000000
+0.000000
+Loading data to class by vector form
+0.000000
+0.000000
+4.000000
+2.000000
+5.000000
+Loading data to class by vector form
+1.000000
+2.000000
+3.000000
+4.000000
+5.000000
+printing vector values on stdout
+Done printing
+Divider of column: 0 line: 1 is: 1.000000  (i,i variable: 1.000000 ji variable: 0.000000 )
+computing constant term nr: 1
+2.000000 - 1.000000
+Constant term is: 1.000000
+
+
+1.000000 - 1.000000
+Value nr: 0 is now: 0.000000
+
+2.000000 - 0.000000
+Value nr: 1 is now: 2.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 3 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 4 is now: 0.000000
+Divider of column: 0 line: 2 is: 0.000000  (i,i variable: 1.000000 ji variable: 0.000000 )
+computing constant term nr: 2
+3.000000 - 0.000000
+Constant term is: 3.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+3.000000 - 0.000000
+Value nr: 2 is now: 3.000000
+
+1.000000 - 0.000000
+Value nr: 3 is now: 1.000000
+
+4.000000 - 0.000000
+Value nr: 4 is now: 4.000000
+Divider of column: 0 line: 3 is: 0.000000  (i,i variable: 1.000000 ji variable: 0.000000 )
+computing constant term nr: 3
+4.000000 - 0.000000
+Constant term is: 4.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+7.000000 - 0.000000
+Value nr: 1 is now: 7.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+6.000000 - 0.000000
+Value nr: 3 is now: 6.000000
+
+2.000000 - 0.000000
+Value nr: 4 is now: 2.000000
+Divider of column: 0 line: 4 is: 0.000000  (i,i variable: 1.000000 ji variable: 0.000000 )
+computing constant term nr: 4
+5.000000 - 0.000000
+Constant term is: 5.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 3 is now: 0.000000
+
+5.000000 - 0.000000
+Value nr: 4 is now: 5.000000
+Divider of column: 1 line: 2 is: 0.000000  (i,i variable: 2.000000 ji variable: 0.000000 )
+computing constant term nr: 2
+3.000000 - 0.000000
+Constant term is: 3.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+3.000000 - 0.000000
+Value nr: 2 is now: 3.000000
+
+1.000000 - 0.000000
+Value nr: 3 is now: 1.000000
+
+4.000000 - 0.000000
+Value nr: 4 is now: 4.000000
+Divider of column: 1 line: 3 is: 3.500000  (i,i variable: 2.000000 ji variable: 0.000000 )
+computing constant term nr: 3
+4.000000 - 3.500000
+Constant term is: 0.500000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+7.000000 - 7.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+6.000000 - 0.000000
+Value nr: 3 is now: 6.000000
+
+2.000000 - 0.000000
+Value nr: 4 is now: 2.000000
+Divider of column: 1 line: 4 is: 0.000000  (i,i variable: 2.000000 ji variable: 0.000000 )
+computing constant term nr: 4
+5.000000 - 0.000000
+Constant term is: 5.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 3 is now: 0.000000
+
+5.000000 - 0.000000
+Value nr: 4 is now: 5.000000
+Divider of column: 2 line: 3 is: 0.000000  (i,i variable: 3.000000 ji variable: 1.000000 )
+computing constant term nr: 3
+0.500000 - 0.000000
+Constant term is: 0.500000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+6.000000 - 0.000000
+Value nr: 3 is now: 6.000000
+
+2.000000 - 0.000000
+Value nr: 4 is now: 2.000000
+Divider of column: 2 line: 4 is: 0.000000  (i,i variable: 3.000000 ji variable: 4.000000 )
+computing constant term nr: 4
+5.000000 - 0.000000
+Constant term is: 5.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 3 is now: 0.000000
+
+5.000000 - 0.000000
+Value nr: 4 is now: 5.000000
+Divider of column: 3 line: 4 is: 0.000000  (i,i variable: 6.000000 ji variable: 2.000000 )
+computing constant term nr: 4
+5.000000 - 0.000000
+Constant term is: 5.000000
+
+
+0.000000 - 0.000000
+Value nr: 0 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 1 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 2 is now: 0.000000
+
+0.000000 - 0.000000
+Value nr: 3 is now: 0.000000
+
+5.000000 - 0.000000
+Value nr: 4 is now: 5.000000
+Starting to resolve
+44
+suma 0.000000 + value 5.000000 * result 0.000000
+sum 5.000000
+new result 1.000000
+new line
+34
+suma 0.000000 + value 2.000000 * result 1.000000
+33
+suma 2.000000 + value 6.000000 * result 0.000000
+sum 8.000000
+new result 16.000000
+new line
+24
+suma 0.000000 + value 4.000000 * result 1.000000
+23
+suma 4.000000 + value 1.000000 * result 16.000000
+22
+suma 20.000000 + value 3.000000 * result 0.000000
+sum 23.000000
+new result 7.666667
+new line
+14
+suma 0.000000 + value 0.000000 * result 1.000000
+13
+suma 0.000000 + value 0.000000 * result 16.000000
+12
+suma 0.000000 + value 0.000000 * result 7.666667
+11
+suma 0.000000 + value 2.000000 * result 0.000000
+sum 2.000000
+new result 2.000000
+new line
+04
+suma 0.000000 + value 0.000000 * result 1.000000
+03
+suma 0.000000 + value 0.000000 * result 16.000000
+02
+suma 0.000000 + value 0.000000 * result 7.666667
+01
+suma 0.000000 + value 0.000000 * result 2.000000
+00
+suma 0.000000 + value 1.000000 * result 0.000000
+sum 1.000000
+new result 1.000000
+new line
+printing vector values on stdout
+Done printing
+
+Program in debug mode ran on:
+Wed Apr 22 21:53:49 2020
+
+
+
+Entering COMPLEX compute function
+We are in reComp function
+Loading data to class by vector form
+Loading data to class by vector form
+Loading data to class by vector form
+Loading data to class by vector form
+Loading data to class by vector form
+Loading data to class by vector form
+printing vector values on stdout
+Done printing

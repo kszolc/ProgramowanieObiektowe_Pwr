@@ -49,6 +49,7 @@ int main(int argc, char** argv){
             cout << "There are to few arguments!" <<endl;
             cout << "Usage: "<<argv[0]<< " <r/c> (real/complex numbers)"<<endl;
             return 1; */
+            return 0;
         }else{
             cout << "There are to much arguments!" << endl;
             cout << "Usage: ./"<<argv[0]<< " <r/c> (real/complex numbers)"<<endl;

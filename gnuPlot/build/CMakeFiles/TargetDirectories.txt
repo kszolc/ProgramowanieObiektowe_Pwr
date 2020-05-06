@@ -1,0 +1,3 @@
+/home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gnuPlot/build/CMakeFiles/rebuild_cache.dir
+/home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gnuPlot/build/CMakeFiles/a.out.dir
+/home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gnuPlot/build/CMakeFiles/edit_cache.dir

@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/a.out.dir/src/Matrix2x2.cpp.o"
-  "CMakeFiles/a.out.dir/src/Rectangle.cpp.o"
   "CMakeFiles/a.out.dir/src/gnuplot_link.cpp.o"
   "CMakeFiles/a.out.dir/src/main.cpp.o"
+  "CMakeFiles/a.out.dir/src/polygon.cpp.o"
   "a.out.pdb"
   "a.out"
 )

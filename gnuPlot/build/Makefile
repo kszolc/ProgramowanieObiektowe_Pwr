@@ -150,33 +150,6 @@ src/Matrix2x2.cpp.s:
 	$(MAKE) -f CMakeFiles/a.out.dir/build.make CMakeFiles/a.out.dir/src/Matrix2x2.cpp.s
 .PHONY : src/Matrix2x2.cpp.s
 
-src/Rectangle.o: src/Rectangle.cpp.o
-
-.PHONY : src/Rectangle.o
-
-# target to build an object file
-src/Rectangle.cpp.o:
-	$(MAKE) -f CMakeFiles/a.out.dir/build.make CMakeFiles/a.out.dir/src/Rectangle.cpp.o
-.PHONY : src/Rectangle.cpp.o
-
-src/Rectangle.i: src/Rectangle.cpp.i
-
-.PHONY : src/Rectangle.i
-
-# target to preprocess a source file
-src/Rectangle.cpp.i:
-	$(MAKE) -f CMakeFiles/a.out.dir/build.make CMakeFiles/a.out.dir/src/Rectangle.cpp.i
-.PHONY : src/Rectangle.cpp.i
-
-src/Rectangle.s: src/Rectangle.cpp.s
-
-.PHONY : src/Rectangle.s
-
-# target to generate assembly for a file
-src/Rectangle.cpp.s:
-	$(MAKE) -f CMakeFiles/a.out.dir/build.make CMakeFiles/a.out.dir/src/Rectangle.cpp.s
-.PHONY : src/Rectangle.cpp.s
-
 src/gnuplot_link.o: src/gnuplot_link.cpp.o
 
 .PHONY : src/gnuplot_link.o
@@ -231,6 +204,33 @@ src/main.cpp.s:
 	$(MAKE) -f CMakeFiles/a.out.dir/build.make CMakeFiles/a.out.dir/src/main.cpp.s
 .PHONY : src/main.cpp.s
 
+src/polygon.o: src/polygon.cpp.o
+
+.PHONY : src/polygon.o
+
+# target to build an object file
+src/polygon.cpp.o:
+	$(MAKE) -f CMakeFiles/a.out.dir/build.make CMakeFiles/a.out.dir/src/polygon.cpp.o
+.PHONY : src/polygon.cpp.o
+
+src/polygon.i: src/polygon.cpp.i
+
+.PHONY : src/polygon.i
+
+# target to preprocess a source file
+src/polygon.cpp.i:
+	$(MAKE) -f CMakeFiles/a.out.dir/build.make CMakeFiles/a.out.dir/src/polygon.cpp.i
+.PHONY : src/polygon.cpp.i
+
+src/polygon.s: src/polygon.cpp.s
+
+.PHONY : src/polygon.s
+
+# target to generate assembly for a file
+src/polygon.cpp.s:
+	$(MAKE) -f CMakeFiles/a.out.dir/build.make CMakeFiles/a.out.dir/src/polygon.cpp.s
+.PHONY : src/polygon.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -243,15 +243,15 @@ help:
 	@echo "... src/Matrix2x2.o"
 	@echo "... src/Matrix2x2.i"
 	@echo "... src/Matrix2x2.s"
-	@echo "... src/Rectangle.o"
-	@echo "... src/Rectangle.i"
-	@echo "... src/Rectangle.s"
 	@echo "... src/gnuplot_link.o"
 	@echo "... src/gnuplot_link.i"
 	@echo "... src/gnuplot_link.s"
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"
+	@echo "... src/polygon.o"
+	@echo "... src/polygon.i"
+	@echo "... src/polygon.s"
 .PHONY : help
 
 

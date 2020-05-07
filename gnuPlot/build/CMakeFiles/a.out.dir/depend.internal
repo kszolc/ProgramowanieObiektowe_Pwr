@@ -4,17 +4,17 @@
 CMakeFiles/a.out.dir/src/Matrix2x2.cpp.o
  ../inc/Matrix2x2.hh
  /home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gnuPlot/src/Matrix2x2.cpp
-CMakeFiles/a.out.dir/src/Rectangle.cpp.o
- ../inc/Rectangle.hh
- /home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gnuPlot/src/Rectangle.cpp
 CMakeFiles/a.out.dir/src/gnuplot_link.cpp.o
  ../inc/gnuplot_link.hh
  /home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gnuPlot/src/gnuplot_link.cpp
 CMakeFiles/a.out.dir/src/main.cpp.o
- ../inc/Matrix2x2.hh
- ../inc/Rectangle.hh
  ../inc/fps.hh
  ../inc/gnuplot_link.hh
  ../inc/object.hh
  ../inc/polygon.hh
+ ../inc/vector.hh
  /home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gnuPlot/src/main.cpp
+CMakeFiles/a.out.dir/src/polygon.cpp.o
+ ../inc/polygon.hh
+ ../inc/vector.hh
+ /home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gnuPlot/src/polygon.cpp

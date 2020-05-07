@@ -81,33 +81,9 @@ CMakeFiles/a.out.dir/src/Matrix2x2.cpp.o.provides: CMakeFiles/a.out.dir/src/Matr
 CMakeFiles/a.out.dir/src/Matrix2x2.cpp.o.provides.build: CMakeFiles/a.out.dir/src/Matrix2x2.cpp.o
 
 
-CMakeFiles/a.out.dir/src/Rectangle.cpp.o: CMakeFiles/a.out.dir/flags.make
-CMakeFiles/a.out.dir/src/Rectangle.cpp.o: ../src/Rectangle.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gnuPlot/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/a.out.dir/src/Rectangle.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/a.out.dir/src/Rectangle.cpp.o -c /home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gnuPlot/src/Rectangle.cpp
-
-CMakeFiles/a.out.dir/src/Rectangle.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/a.out.dir/src/Rectangle.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gnuPlot/src/Rectangle.cpp > CMakeFiles/a.out.dir/src/Rectangle.cpp.i
-
-CMakeFiles/a.out.dir/src/Rectangle.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/a.out.dir/src/Rectangle.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gnuPlot/src/Rectangle.cpp -o CMakeFiles/a.out.dir/src/Rectangle.cpp.s
-
-CMakeFiles/a.out.dir/src/Rectangle.cpp.o.requires:
-
-.PHONY : CMakeFiles/a.out.dir/src/Rectangle.cpp.o.requires
-
-CMakeFiles/a.out.dir/src/Rectangle.cpp.o.provides: CMakeFiles/a.out.dir/src/Rectangle.cpp.o.requires
-	$(MAKE) -f CMakeFiles/a.out.dir/build.make CMakeFiles/a.out.dir/src/Rectangle.cpp.o.provides.build
-.PHONY : CMakeFiles/a.out.dir/src/Rectangle.cpp.o.provides
-
-CMakeFiles/a.out.dir/src/Rectangle.cpp.o.provides.build: CMakeFiles/a.out.dir/src/Rectangle.cpp.o
-
-
 CMakeFiles/a.out.dir/src/gnuplot_link.cpp.o: CMakeFiles/a.out.dir/flags.make
 CMakeFiles/a.out.dir/src/gnuplot_link.cpp.o: ../src/gnuplot_link.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gnuPlot/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/a.out.dir/src/gnuplot_link.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gnuPlot/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/a.out.dir/src/gnuplot_link.cpp.o"
 	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/a.out.dir/src/gnuplot_link.cpp.o -c /home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gnuPlot/src/gnuplot_link.cpp
 
 CMakeFiles/a.out.dir/src/gnuplot_link.cpp.i: cmake_force
@@ -131,7 +107,7 @@ CMakeFiles/a.out.dir/src/gnuplot_link.cpp.o.provides.build: CMakeFiles/a.out.dir
 
 CMakeFiles/a.out.dir/src/main.cpp.o: CMakeFiles/a.out.dir/flags.make
 CMakeFiles/a.out.dir/src/main.cpp.o: ../src/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gnuPlot/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/a.out.dir/src/main.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gnuPlot/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/a.out.dir/src/main.cpp.o"
 	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/a.out.dir/src/main.cpp.o -c /home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gnuPlot/src/main.cpp
 
 CMakeFiles/a.out.dir/src/main.cpp.i: cmake_force
@@ -153,20 +129,44 @@ CMakeFiles/a.out.dir/src/main.cpp.o.provides: CMakeFiles/a.out.dir/src/main.cpp.
 CMakeFiles/a.out.dir/src/main.cpp.o.provides.build: CMakeFiles/a.out.dir/src/main.cpp.o
 
 
+CMakeFiles/a.out.dir/src/polygon.cpp.o: CMakeFiles/a.out.dir/flags.make
+CMakeFiles/a.out.dir/src/polygon.cpp.o: ../src/polygon.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gnuPlot/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/a.out.dir/src/polygon.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/a.out.dir/src/polygon.cpp.o -c /home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gnuPlot/src/polygon.cpp
+
+CMakeFiles/a.out.dir/src/polygon.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/a.out.dir/src/polygon.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gnuPlot/src/polygon.cpp > CMakeFiles/a.out.dir/src/polygon.cpp.i
+
+CMakeFiles/a.out.dir/src/polygon.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/a.out.dir/src/polygon.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gnuPlot/src/polygon.cpp -o CMakeFiles/a.out.dir/src/polygon.cpp.s
+
+CMakeFiles/a.out.dir/src/polygon.cpp.o.requires:
+
+.PHONY : CMakeFiles/a.out.dir/src/polygon.cpp.o.requires
+
+CMakeFiles/a.out.dir/src/polygon.cpp.o.provides: CMakeFiles/a.out.dir/src/polygon.cpp.o.requires
+	$(MAKE) -f CMakeFiles/a.out.dir/build.make CMakeFiles/a.out.dir/src/polygon.cpp.o.provides.build
+.PHONY : CMakeFiles/a.out.dir/src/polygon.cpp.o.provides
+
+CMakeFiles/a.out.dir/src/polygon.cpp.o.provides.build: CMakeFiles/a.out.dir/src/polygon.cpp.o
+
+
 # Object files for target a.out
 a_out_OBJECTS = \
 "CMakeFiles/a.out.dir/src/Matrix2x2.cpp.o" \
-"CMakeFiles/a.out.dir/src/Rectangle.cpp.o" \
 "CMakeFiles/a.out.dir/src/gnuplot_link.cpp.o" \
-"CMakeFiles/a.out.dir/src/main.cpp.o"
+"CMakeFiles/a.out.dir/src/main.cpp.o" \
+"CMakeFiles/a.out.dir/src/polygon.cpp.o"
 
 # External object files for target a.out
 a_out_EXTERNAL_OBJECTS =
 
 a.out: CMakeFiles/a.out.dir/src/Matrix2x2.cpp.o
-a.out: CMakeFiles/a.out.dir/src/Rectangle.cpp.o
 a.out: CMakeFiles/a.out.dir/src/gnuplot_link.cpp.o
 a.out: CMakeFiles/a.out.dir/src/main.cpp.o
+a.out: CMakeFiles/a.out.dir/src/polygon.cpp.o
 a.out: CMakeFiles/a.out.dir/build.make
 a.out: CMakeFiles/a.out.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gnuPlot/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable a.out"
@@ -178,9 +178,9 @@ CMakeFiles/a.out.dir/build: a.out
 .PHONY : CMakeFiles/a.out.dir/build
 
 CMakeFiles/a.out.dir/requires: CMakeFiles/a.out.dir/src/Matrix2x2.cpp.o.requires
-CMakeFiles/a.out.dir/requires: CMakeFiles/a.out.dir/src/Rectangle.cpp.o.requires
 CMakeFiles/a.out.dir/requires: CMakeFiles/a.out.dir/src/gnuplot_link.cpp.o.requires
 CMakeFiles/a.out.dir/requires: CMakeFiles/a.out.dir/src/main.cpp.o.requires
+CMakeFiles/a.out.dir/requires: CMakeFiles/a.out.dir/src/polygon.cpp.o.requires
 
 .PHONY : CMakeFiles/a.out.dir/requires
 

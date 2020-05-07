@@ -4,17 +4,17 @@
 CMakeFiles/a.out.dir/src/Matrix2x2.cpp.o: ../inc/Matrix2x2.hh
 CMakeFiles/a.out.dir/src/Matrix2x2.cpp.o: ../src/Matrix2x2.cpp
 
-CMakeFiles/a.out.dir/src/Rectangle.cpp.o: ../inc/Rectangle.hh
-CMakeFiles/a.out.dir/src/Rectangle.cpp.o: ../src/Rectangle.cpp
-
 CMakeFiles/a.out.dir/src/gnuplot_link.cpp.o: ../inc/gnuplot_link.hh
 CMakeFiles/a.out.dir/src/gnuplot_link.cpp.o: ../src/gnuplot_link.cpp
 
-CMakeFiles/a.out.dir/src/main.cpp.o: ../inc/Matrix2x2.hh
-CMakeFiles/a.out.dir/src/main.cpp.o: ../inc/Rectangle.hh
 CMakeFiles/a.out.dir/src/main.cpp.o: ../inc/fps.hh
 CMakeFiles/a.out.dir/src/main.cpp.o: ../inc/gnuplot_link.hh
 CMakeFiles/a.out.dir/src/main.cpp.o: ../inc/object.hh
 CMakeFiles/a.out.dir/src/main.cpp.o: ../inc/polygon.hh
+CMakeFiles/a.out.dir/src/main.cpp.o: ../inc/vector.hh
 CMakeFiles/a.out.dir/src/main.cpp.o: ../src/main.cpp
+
+CMakeFiles/a.out.dir/src/polygon.cpp.o: ../inc/polygon.hh
+CMakeFiles/a.out.dir/src/polygon.cpp.o: ../inc/vector.hh
+CMakeFiles/a.out.dir/src/polygon.cpp.o: ../src/polygon.cpp
 

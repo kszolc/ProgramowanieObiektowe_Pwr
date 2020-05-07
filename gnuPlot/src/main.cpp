@@ -4,8 +4,6 @@
 #include <string>
 #include <vector>
 
-#include "Matrix2x2.hh"
-#include "Rectangle.hh"
 #include "gnuplot_link.hh"
 #include "polygon.hh"
 #include "fps.hh"
@@ -13,7 +11,7 @@
 
 
 using namespace std;
-using Triangle3 = Object<Polygon<3>,1>;
+using Triangle3 = Object<Rectangle,2>;
 
 
 
@@ -32,9 +30,12 @@ int main()
   mo[1] = -200;
   mo[2] = 100;
   
-  triangle.load("triangle.dat","trojkat");
+  triangle.load("cuboid.dat","trojkat");
   link.SetDrawingMode(PzG::DM_3D);
   fps_measure.measure();
+  triangle.draw();
+  link.Draw();
+  fps_measure.wait(50);
 
   /*
   punkt[0].loadFromFile("../models/3d/point.dat", 0);

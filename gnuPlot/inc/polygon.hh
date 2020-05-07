@@ -3,65 +3,61 @@
 #include <cstring>
 #include <iostream>
 
-class Point3
+#include "vector.hh"
+
+class Triangle
 {
 public:
-  double pointPos[3];
+  Vector<double, 3> point[3];
 
-  friend std::ostream &operator<<(std::ostream &stream, Point3 po)
+  Triangle operator+(Vector<double,3> vec);
+
+  friend std::ostream &operator<<(std::ostream &stream, Triangle tri)
   {
+
     for (int i = 0; i < 3; i++)
-      stream << po.pointPos[i] << "  ";
+    {
+      stream << tri.point[i] << " ";
+    }
+    stream << tri.point[0];
     stream << std::endl;
     return stream;
   }
-  friend std::istream &operator>>(std::istream &stream, Point3 &po)
+  friend std::istream &operator>>(std::istream &stream, Triangle &tri)
   {
-    for (int i = 0; i < 3; i++)
-      stream >> po.pointPos[i];
-    return stream;
-  }
-  Point3 operator+(Point3 addPoint)
-  {
-    Point3 result;
+
     for (int i = 0; i < 3; i++)
     {
-      if(std::abs(addPoint.pointPos[i]) > 1)
-      result.pointPos[i] = pointPos[i] + addPoint.pointPos[i];
+      stream >> tri.point[i];
     }
+
+    return stream;
   }
 };
-template <int SIZE>
-class Polygon : public Point3
+class Rectangle
 {
-private:
-  std::string name;
-  std::string tempName;
-  int id;
-
 public:
-  Point3 pos[SIZE];
-
-  friend std::ostream &operator<<(std::ostream &stream, Polygon polygon)
+  Vector<double, 3> point[4];
+  Rectangle operator+(Vector<double,3> vec);
+  friend std::ostream &operator<<(std::ostream &stream, Rectangle tri)
   {
-    for (int i = 0; i < SIZE; i++)
-      stream << polygon.pos[i] << "  ";
+
+    for (int i = 0; i < 4; i++)
+    {
+      stream << tri.point[i] << " ";
+    }
+    stream << tri.point[0];
     stream << std::endl;
     return stream;
   }
-  friend std::istream &operator>>(std::istream &stream, Polygon &polygon)
+  friend std::istream &operator>>(std::istream &stream, Rectangle &tri)
   {
-    for (int i = 0; i < SIZE; i++)
-      stream >> polygon.pos[i];
-    return stream;
-  }
-  Polygon<SIZE> operator+(Point3 point)
-  {
-    Polygon<SIZE> result;
-    for (int i = 0; i < SIZE; i++)
+
+    for (int i = 0; i < 4; i++)
     {
-      result.pos[i] = pos[i] + point;
+      stream >> tri.point[i];
     }
-    return result;
+
+    return stream;
   }
 };

@@ -42,7 +42,7 @@ private:
     for (int i = 0; i < SIZE; i++)
     {
       std::cout << object[i];
-      file_stream << objectRealPosition[i];
+      file_stream << object[i];
       file_stream << "#\n";
     }
     file_stream.close();
@@ -96,6 +96,6 @@ public:
         objectRealPosition[1].value[j] = 10;
       }
     }
-    }
+  }
   void rotateZ(double z);
 };

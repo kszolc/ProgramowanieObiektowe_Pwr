@@ -1,0 +1,60 @@
+\hypertarget{class_ftime}{}\section{Ftime Class Reference}
+\label{class_ftime}\index{Ftime@{Ftime}}
+
+
+Checking duration between two measurements.  
+
+
+
+
+{\ttfamily \#include $<$fps.\+hh$>$}
+
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{class_ftime_a4b2418b249d492c27aef5aa3b1fe3750}\label{class_ftime_a4b2418b249d492c27aef5aa3b1fe3750}} 
+void \hyperlink{class_ftime_a4b2418b249d492c27aef5aa3b1fe3750}{measure} ()
+\begin{DoxyCompactList}\small\item\em Serring point of measure. \end{DoxyCompactList}\item 
+void \hyperlink{class_ftime_a64b93ed0af61a91a18f053098079afad}{wait} (float sec)
+\begin{DoxyCompactList}\small\item\em Freezing program for S\+EC seconds. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\subsection*{Static Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{class_ftime_a121c6d6eb7125694fcc43fd77da56409}\label{class_ftime_a121c6d6eb7125694fcc43fd77da56409}} 
+static double {\bfseries ms} = 1000
+\item 
+\mbox{\Hypertarget{class_ftime_ae03e73c800166ebdb721977554c1816d}\label{class_ftime_ae03e73c800166ebdb721977554c1816d}} 
+static double {\bfseries fps} = 1
+\item 
+\mbox{\Hypertarget{class_ftime_ae4cfb4d581e544d598f3fa62c532edc1}\label{class_ftime_ae4cfb4d581e544d598f3fa62c532edc1}} 
+static bool {\bfseries show\+Fps} = 0
+\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+Checking duration between two measurements. 
+
+ms -\/ miliseconds between two measurements fps -\/ current Frames Per Second show\+Fps -\/ determines if current F\+PS is displayed 
+
+\subsection{Member Function Documentation}
+\mbox{\Hypertarget{class_ftime_a64b93ed0af61a91a18f053098079afad}\label{class_ftime_a64b93ed0af61a91a18f053098079afad}} 
+\index{Ftime@{Ftime}!wait@{wait}}
+\index{wait@{wait}!Ftime@{Ftime}}
+\subsubsection{\texorpdfstring{wait()}{wait()}}
+{\footnotesize\ttfamily void Ftime\+::wait (\begin{DoxyParamCaption}\item[{float}]{sec }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}}
+
+
+
+Freezing program for S\+EC seconds. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em sec} & -\/ seconds you want program to freeze \\
+\hline
+\end{DoxyParams}
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+inc/fps.\+hh\item 
+src/main.\+cpp\end{DoxyCompactItemize}

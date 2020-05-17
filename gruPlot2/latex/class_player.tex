@@ -1,0 +1,125 @@
+\hypertarget{class_player}{}\section{Player Class Reference}
+\label{class_player}\index{Player@{Player}}
+
+
+Class what defines all required information of player, its movvement etc.  
+
+
+
+
+{\ttfamily \#include $<$Player.\+hh$>$}
+
+
+
+Inheritance diagram for Player\+:
+% FIG 0
+
+
+Collaboration diagram for Player\+:
+% FIG 1
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+bool \hyperlink{class_player_a3fb29852d8ec3172353eba73529dd918}{Move} (\hyperlink{class_vector}{Vector3} movement\+Vector)
+\begin{DoxyCompactList}\small\item\em change position of object \end{DoxyCompactList}\item 
+bool \hyperlink{class_player_a8f9cb8556ae0bd45732c6f552e336c68}{Rotate} (\hyperlink{class_vector}{Vector3} rotate\+Vector)
+\begin{DoxyCompactList}\small\item\em change rotation of object dynamic\+Movement() makes it smooth instead of teleporting \end{DoxyCompactList}\item 
+bool \hyperlink{class_player_a91f887a024035be5030aa4b3384705fa}{Update} ()
+\begin{DoxyCompactList}\small\item\em Updating position and rendering it. \end{DoxyCompactList}\item 
+bool \hyperlink{class_player_a797198656a642b66fd8ec656153d8595}{Start} ()
+\begin{DoxyCompactList}\small\item\em Some startup settings, need to be activated on start! \end{DoxyCompactList}\end{DoxyCompactItemize}
+\subsection*{Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{class_player_ab7d15897ddde5fe3f7fc88d889ef5bcb}\label{class_player_ab7d15897ddde5fe3f7fc88d889ef5bcb}} 
+bool \hyperlink{class_player_ab7d15897ddde5fe3f7fc88d889ef5bcb}{is\+Moving}
+\begin{DoxyCompactList}\small\item\em is object moving? \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{class_player_a3e38beabe05f4d43ab7338aaf355889b}\label{class_player_a3e38beabe05f4d43ab7338aaf355889b}} 
+bool \hyperlink{class_player_a3e38beabe05f4d43ab7338aaf355889b}{is\+Rotating}
+\begin{DoxyCompactList}\small\item\em is object rotating? \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{class_player_aac9c0114d8784c5230fe910e0dc24f4b}\label{class_player_aac9c0114d8784c5230fe910e0dc24f4b}} 
+float \hyperlink{class_player_aac9c0114d8784c5230fe910e0dc24f4b}{movement\+Speed} = 10
+\begin{DoxyCompactList}\small\item\em speed of dynamic movement \end{DoxyCompactList}\end{DoxyCompactItemize}
+\subsection*{Additional Inherited Members}
+
+
+\subsection{Detailed Description}
+Class what defines all required information of player, its movvement etc. 
+
+\subsection{Member Function Documentation}
+\mbox{\Hypertarget{class_player_a3fb29852d8ec3172353eba73529dd918}\label{class_player_a3fb29852d8ec3172353eba73529dd918}} 
+\index{Player@{Player}!Move@{Move}}
+\index{Move@{Move}!Player@{Player}}
+\subsubsection{\texorpdfstring{Move()}{Move()}}
+{\footnotesize\ttfamily bool Player\+::\+Move (\begin{DoxyParamCaption}\item[{\hyperlink{class_vector}{Vector3}}]{movement\+Vector }\end{DoxyParamCaption})}
+
+
+
+change position of object 
+
+dynamic\+Movement() makes it smooth instead of teleporting 
+\begin{DoxyParams}{Parameters}
+{\em movement\+Vector} & vector we want object to move \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+true -\/ all good 
+
+false -\/ not good 
+\end{DoxyReturn}
+\mbox{\Hypertarget{class_player_a8f9cb8556ae0bd45732c6f552e336c68}\label{class_player_a8f9cb8556ae0bd45732c6f552e336c68}} 
+\index{Player@{Player}!Rotate@{Rotate}}
+\index{Rotate@{Rotate}!Player@{Player}}
+\subsubsection{\texorpdfstring{Rotate()}{Rotate()}}
+{\footnotesize\ttfamily bool Player\+::\+Rotate (\begin{DoxyParamCaption}\item[{\hyperlink{class_vector}{Vector3}}]{rotate\+Vector }\end{DoxyParamCaption})}
+
+
+
+change rotation of object dynamic\+Movement() makes it smooth instead of teleporting 
+
+
+\begin{DoxyParams}{Parameters}
+{\em rotate\+Vector} & vector we want our object rotate \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+true -\/ all good 
+
+false -\/ not good 
+\end{DoxyReturn}
+\mbox{\Hypertarget{class_player_a797198656a642b66fd8ec656153d8595}\label{class_player_a797198656a642b66fd8ec656153d8595}} 
+\index{Player@{Player}!Start@{Start}}
+\index{Start@{Start}!Player@{Player}}
+\subsubsection{\texorpdfstring{Start()}{Start()}}
+{\footnotesize\ttfamily bool Player\+::\+Start (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Some startup settings, need to be activated on start! 
+
+\begin{DoxyReturn}{Returns}
+true -\/ loading player model data complete! 
+
+false -\/ loading player model data failed! 
+\end{DoxyReturn}
+\mbox{\Hypertarget{class_player_a91f887a024035be5030aa4b3384705fa}\label{class_player_a91f887a024035be5030aa4b3384705fa}} 
+\index{Player@{Player}!Update@{Update}}
+\index{Update@{Update}!Player@{Player}}
+\subsubsection{\texorpdfstring{Update()}{Update()}}
+{\footnotesize\ttfamily bool Player\+::\+Update (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Updating position and rendering it. 
+
+\begin{DoxyReturn}{Returns}
+true -\/ object is moving, and all magic happens 
+
+false -\/ nothing is happening, computer resources are saved 
+\end{DoxyReturn}
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+inc/Player.\+hh\item 
+src/Player.\+cpp\end{DoxyCompactItemize}

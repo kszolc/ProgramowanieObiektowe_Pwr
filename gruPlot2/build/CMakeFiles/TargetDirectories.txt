@@ -1,0 +1,3 @@
+/home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/build/CMakeFiles/rebuild_cache.dir
+/home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/build/CMakeFiles/a.out.dir
+/home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/build/CMakeFiles/edit_cache.dir

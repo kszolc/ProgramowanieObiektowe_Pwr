@@ -11,7 +11,6 @@ public:
         Vector<T,SIZE> result;
         for(int i =0;i<SIZE;i++){
             result.value[i] = value[i] + vec.value[i];
-            std::cout << vec.value[i];
         }
     }
 

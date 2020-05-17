@@ -1,0 +1,104 @@
+\hypertarget{class_model}{}\section{Model Class Reference}
+\label{class_model}\index{Model@{Model}}
+
+
+Inheritance diagram for Model\+:
+% FIG 0
+
+
+Collaboration diagram for Model\+:
+% FIG 1
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+bool \hyperlink{class_model_aeac0bcc4a5389b6ec36db82ce76ee043}{Load\+From\+File} (std\+::string file\+Name)
+\begin{DoxyCompactList}\small\item\em Load model data from \char`\"{}model\char`\"{} directory. \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{class_model_a0c668c13fc79a86326f75ea231f3886f}\label{class_model_a0c668c13fc79a86326f75ea231f3886f}} 
+void \hyperlink{class_model_a0c668c13fc79a86326f75ea231f3886f}{Draw} ()
+\begin{DoxyCompactList}\small\item\em Add this model to queue of drawing. \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{class_model_a91cd21886c9f6a23d92b32d654f2dfd8}\label{class_model_a91cd21886c9f6a23d92b32d654f2dfd8}} 
+void \hyperlink{class_model_a91cd21886c9f6a23d92b32d654f2dfd8}{Start} ()
+\begin{DoxyCompactList}\small\item\em Startup settings of mesh renderrer. \end{DoxyCompactList}\item 
+const bool \hyperlink{class_model_aa24e073cc3aa8c325f503a0c73a86241}{achived\+Destination} ()
+\begin{DoxyCompactList}\small\item\em Check if moving object achived its destination. \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{class_model_aefa3f6dee6c4c8a65f9ccc17cd6d8899}\label{class_model_aefa3f6dee6c4c8a65f9ccc17cd6d8899}} 
+const bool {\bfseries achived\+Rotation\+Destination} ()
+\end{DoxyCompactItemize}
+\subsection*{Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{class_model_aaada5cf29c31fafcc9515e28a6392841}\label{class_model_aaada5cf29c31fafcc9515e28a6392841}} 
+int {\bfseries id}
+\item 
+\mbox{\Hypertarget{class_model_a76122dbc867c11d6a58f6275740b8c7c}\label{class_model_a76122dbc867c11d6a58f6275740b8c7c}} 
+bool {\bfseries is\+Active}
+\item 
+\mbox{\Hypertarget{class_model_a913145ab96ac03e2cc84c304742a5694}\label{class_model_a913145ab96ac03e2cc84c304742a5694}} 
+\hyperlink{class_vector}{Vector3} {\bfseries position}
+\item 
+\mbox{\Hypertarget{class_model_a236dc9e748a02c7eade9c851ecc039ce}\label{class_model_a236dc9e748a02c7eade9c851ecc039ce}} 
+\hyperlink{class_vector}{Vector3} {\bfseries rotation}
+\item 
+\mbox{\Hypertarget{class_model_a0e2b8e5997c2ed2754a9c3151bd42dfc}\label{class_model_a0e2b8e5997c2ed2754a9c3151bd42dfc}} 
+\hyperlink{class_vector}{Vector3} {\bfseries pos\+Dest}
+\item 
+\mbox{\Hypertarget{class_model_aaea3fca2bae892fb42b9370c613abe25}\label{class_model_aaea3fca2bae892fb42b9370c613abe25}} 
+\hyperlink{class_vector}{Vector3} {\bfseries rot\+Dest}
+\item 
+\mbox{\Hypertarget{class_model_a766f9cc9861933cf0e3eedbd2373cc33}\label{class_model_a766f9cc9861933cf0e3eedbd2373cc33}} 
+std\+::vector$<$ \hyperlink{class_rectangle}{Rectangle} $>$ {\bfseries rect}
+\end{DoxyCompactItemize}
+\subsection*{Static Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{class_model_a754668c2d0cfa749162b404f0d571566}\label{class_model_a754668c2d0cfa749162b404f0d571566}} 
+static int {\bfseries count} = 0
+\item 
+\mbox{\Hypertarget{class_model_aea08808f395e20909162ccc14c2e458c}\label{class_model_aea08808f395e20909162ccc14c2e458c}} 
+static int {\bfseries meshes} = 0
+\end{DoxyCompactItemize}
+
+
+\subsection{Member Function Documentation}
+\mbox{\Hypertarget{class_model_aa24e073cc3aa8c325f503a0c73a86241}\label{class_model_aa24e073cc3aa8c325f503a0c73a86241}} 
+\index{Model@{Model}!achived\+Destination@{achived\+Destination}}
+\index{achived\+Destination@{achived\+Destination}!Model@{Model}}
+\subsubsection{\texorpdfstring{achived\+Destination()}{achivedDestination()}}
+{\footnotesize\ttfamily const bool Model\+::achived\+Destination (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Check if moving object achived its destination. 
+
+\begin{DoxyReturn}{Returns}
+true -\/ yes 
+
+false -\/ no 
+\end{DoxyReturn}
+\mbox{\Hypertarget{class_model_aeac0bcc4a5389b6ec36db82ce76ee043}\label{class_model_aeac0bcc4a5389b6ec36db82ce76ee043}} 
+\index{Model@{Model}!Load\+From\+File@{Load\+From\+File}}
+\index{Load\+From\+File@{Load\+From\+File}!Model@{Model}}
+\subsubsection{\texorpdfstring{Load\+From\+File()}{LoadFromFile()}}
+{\footnotesize\ttfamily bool Model\+::\+Load\+From\+File (\begin{DoxyParamCaption}\item[{std\+::string}]{file\+Name }\end{DoxyParamCaption})}
+
+
+
+Load model data from \char`\"{}model\char`\"{} directory. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em file\+Name} & name of file we want to load data from \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+true -\/ all done, we are good to go 
+
+false -\/ something went horribly wrong 
+\end{DoxyReturn}
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+inc/Model.\+hh\item 
+src/main.\+cpp\item 
+src/Model.\+cpp\end{DoxyCompactItemize}

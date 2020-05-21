@@ -25,6 +25,8 @@ cstring
 ../inc/Player.hh
 Model.hh
 ../inc/Model.hh
+rotor.hh
+../inc/rotor.hh
 
 ../inc/Rectangle.hh
 iostream
@@ -62,6 +64,10 @@ list
 vector
 -
 
+../inc/rotor.hh
+Model.hh
+../inc/Model.hh
+
 ../inc/vector.hh
 iostream
 -
@@ -79,6 +85,10 @@ Player.hh
 /home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/src/Rectangle.cpp
 Rectangle.hh
 /home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/src/Rectangle.hh
+
+/home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/src/Rotor.cpp
+rotor.hh
+/home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/src/rotor.hh
 
 /home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/src/Scene.cpp
 Scene.hh

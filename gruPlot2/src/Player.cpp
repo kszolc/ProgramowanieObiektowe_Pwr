@@ -20,10 +20,7 @@ bool Player::dynamicMovement()
     prevRot = rotDest;
     rotation = rotDest;
     isRotating = false;
-    
-   
   }
-
 
   //dynaminc positon;
   if (!achivedDestination())
@@ -47,9 +44,10 @@ bool Player::dynamicMovement()
 
 bool Player::Move(Vector3 movementVector)
 {
-  double rad = rotation.value[0] * M_PI /180;
+  double rad = rotation.value[0] * M_PI / 180;
   isMoving = true;
-  for(int i = 0;i <3;i++){
+  for (int i = 0; i < 3; i++)
+  {
     posDest.value[0] = movementVector.length() * cos(rad) * cos(rad);
     posDest.value[1] = movementVector.length() * cos(rad) * sin(rad);
     posDest.value[2] = movementVector.length() * sin(rad);
@@ -70,14 +68,33 @@ bool Player::Update()
   {
     dynamicMovement();
     Draw();
+    for (int i = 0; i < 2; i++)
+    {
+      rotor[i].position = position;
+      rotor[i].rotation = rotation;
+      rotor[i].Draw();
+    }
     return 1;
   }
   return 0;
 }
 bool Player::Start()
 {
-  for(int i =0;i<3;i++){
+  for (int i = 0; i < 3; i++)
+  {
     prevPos.value[i] = toMove.value[i] = 0;
   }
-  return(!LoadFromFile("box.dat"));
+  LoadFromFile("box.dat");
+  rotor[0].LoadFromFile("screw.dat");
+  rotor[1].LoadFromFile("screw.dat");
+  defPos[0].value[0] = -35;
+  defPos[0].value[1] = 35;
+  defPos[1].value[0] = -35;
+  defPos[1].value[1] = -35;
+  rotor[0].position = defPos[0];
+  rotor[1].position = defPos[1];
+  rotor[0].ApplyShift();
+  rotor[1].ApplyShift();
+
+  return 1;
 }

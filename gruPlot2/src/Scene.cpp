@@ -18,8 +18,24 @@ void Scene::Start()
   Model placeholder;
   placeholder.LoadFromFile("water.dat");
   models.push_back(placeholder);
+  placeholder.rect.clear();
   placeholder.LoadFromFile("ground.dat");
   models.push_back(placeholder);
+  placeholder.rect.clear();
+  placeholder.LoadFromFile("plant.dat");
+  placeholder.position.value[0] = 100;
+  placeholder.position.value[1] = 150;
+  placeholder.position.value[2] = -100;
+     placeholder.rotation.value[0] = 15;
+  models.push_back(placeholder);
+  placeholder.rect.clear();
+  placeholder.LoadFromFile("plant.dat");
+  placeholder.position.value[0] = -100;
+  placeholder.position.value[1] = -220;
+  placeholder.position.value[2] = -100;
+   placeholder.rotation.value[0] = -40;
+  models.push_back(placeholder);
+  placeholder.rect.clear();
   player.Update();
   for (int i = 0; i < models.size(); i++)
   {

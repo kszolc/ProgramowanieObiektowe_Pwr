@@ -7,6 +7,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/src/Model.cpp" "/home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/build/CMakeFiles/a.out.dir/src/Model.cpp.o"
   "/home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/src/Player.cpp" "/home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/build/CMakeFiles/a.out.dir/src/Player.cpp.o"
   "/home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/src/Rectangle.cpp" "/home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/build/CMakeFiles/a.out.dir/src/Rectangle.cpp.o"
+  "/home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/src/Rotor.cpp" "/home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/build/CMakeFiles/a.out.dir/src/Rotor.cpp.o"
   "/home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/src/Scene.cpp" "/home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/build/CMakeFiles/a.out.dir/src/Scene.cpp.o"
   "/home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/src/gnuplot_link.cpp" "/home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/build/CMakeFiles/a.out.dir/src/gnuplot_link.cpp.o"
   "/home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/src/main.cpp" "/home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/build/CMakeFiles/a.out.dir/src/main.cpp.o"

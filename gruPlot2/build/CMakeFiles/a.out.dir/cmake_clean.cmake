@@ -2,6 +2,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/a.out.dir/src/Model.cpp.o"
   "CMakeFiles/a.out.dir/src/Player.cpp.o"
   "CMakeFiles/a.out.dir/src/Rectangle.cpp.o"
+  "CMakeFiles/a.out.dir/src/Rotor.cpp.o"
   "CMakeFiles/a.out.dir/src/Scene.cpp.o"
   "CMakeFiles/a.out.dir/src/gnuplot_link.cpp.o"
   "CMakeFiles/a.out.dir/src/main.cpp.o"

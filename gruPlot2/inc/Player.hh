@@ -1,6 +1,7 @@
 #pragma once
 
 #include "Model.hh"
+#include "rotor.hh"
 /**
  * @brief Class what defines all required information of player, its movvement etc
  * 
@@ -8,6 +9,8 @@
 class Player : public Model
 {
 private:
+  Vector3 defPos[2];
+  Rotor rotor[2];
   /**
    * @brief position before movement
    * 
@@ -57,7 +60,7 @@ public:
    * @brief speed of dynamic movement
    * 
    */
-  float movementSpeed = 10;
+  float movementSpeed = 30;
   /**
    * @brief change position of object
    * 

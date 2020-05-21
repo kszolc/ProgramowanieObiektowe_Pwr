@@ -13,6 +13,7 @@ CMakeFiles/a.out.dir/src/Player.cpp.o: ../inc/Player.hh
 CMakeFiles/a.out.dir/src/Player.cpp.o: ../inc/Rectangle.hh
 CMakeFiles/a.out.dir/src/Player.cpp.o: ../inc/fps.hh
 CMakeFiles/a.out.dir/src/Player.cpp.o: ../inc/gnuplot_link.hh
+CMakeFiles/a.out.dir/src/Player.cpp.o: ../inc/rotor.hh
 CMakeFiles/a.out.dir/src/Player.cpp.o: ../inc/vector.hh
 CMakeFiles/a.out.dir/src/Player.cpp.o: ../src/Player.cpp
 
@@ -21,12 +22,21 @@ CMakeFiles/a.out.dir/src/Rectangle.cpp.o: ../inc/fps.hh
 CMakeFiles/a.out.dir/src/Rectangle.cpp.o: ../inc/vector.hh
 CMakeFiles/a.out.dir/src/Rectangle.cpp.o: ../src/Rectangle.cpp
 
+CMakeFiles/a.out.dir/src/Rotor.cpp.o: ../inc/Model.hh
+CMakeFiles/a.out.dir/src/Rotor.cpp.o: ../inc/Rectangle.hh
+CMakeFiles/a.out.dir/src/Rotor.cpp.o: ../inc/fps.hh
+CMakeFiles/a.out.dir/src/Rotor.cpp.o: ../inc/gnuplot_link.hh
+CMakeFiles/a.out.dir/src/Rotor.cpp.o: ../inc/rotor.hh
+CMakeFiles/a.out.dir/src/Rotor.cpp.o: ../inc/vector.hh
+CMakeFiles/a.out.dir/src/Rotor.cpp.o: ../src/Rotor.cpp
+
 CMakeFiles/a.out.dir/src/Scene.cpp.o: ../inc/Model.hh
 CMakeFiles/a.out.dir/src/Scene.cpp.o: ../inc/Player.hh
 CMakeFiles/a.out.dir/src/Scene.cpp.o: ../inc/Rectangle.hh
 CMakeFiles/a.out.dir/src/Scene.cpp.o: ../inc/Scene.hh
 CMakeFiles/a.out.dir/src/Scene.cpp.o: ../inc/fps.hh
 CMakeFiles/a.out.dir/src/Scene.cpp.o: ../inc/gnuplot_link.hh
+CMakeFiles/a.out.dir/src/Scene.cpp.o: ../inc/rotor.hh
 CMakeFiles/a.out.dir/src/Scene.cpp.o: ../inc/vector.hh
 CMakeFiles/a.out.dir/src/Scene.cpp.o: ../src/Scene.cpp
 
@@ -39,6 +49,7 @@ CMakeFiles/a.out.dir/src/main.cpp.o: ../inc/Rectangle.hh
 CMakeFiles/a.out.dir/src/main.cpp.o: ../inc/Scene.hh
 CMakeFiles/a.out.dir/src/main.cpp.o: ../inc/fps.hh
 CMakeFiles/a.out.dir/src/main.cpp.o: ../inc/gnuplot_link.hh
+CMakeFiles/a.out.dir/src/main.cpp.o: ../inc/rotor.hh
 CMakeFiles/a.out.dir/src/main.cpp.o: ../inc/vector.hh
 CMakeFiles/a.out.dir/src/main.cpp.o: ../src/main.cpp
 

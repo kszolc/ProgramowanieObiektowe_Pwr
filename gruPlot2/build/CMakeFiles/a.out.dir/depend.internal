@@ -14,6 +14,7 @@ CMakeFiles/a.out.dir/src/Player.cpp.o
  ../inc/Rectangle.hh
  ../inc/fps.hh
  ../inc/gnuplot_link.hh
+ ../inc/rotor.hh
  ../inc/vector.hh
  /home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/src/Player.cpp
 CMakeFiles/a.out.dir/src/Rectangle.cpp.o
@@ -21,6 +22,14 @@ CMakeFiles/a.out.dir/src/Rectangle.cpp.o
  ../inc/fps.hh
  ../inc/vector.hh
  /home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/src/Rectangle.cpp
+CMakeFiles/a.out.dir/src/Rotor.cpp.o
+ ../inc/Model.hh
+ ../inc/Rectangle.hh
+ ../inc/fps.hh
+ ../inc/gnuplot_link.hh
+ ../inc/rotor.hh
+ ../inc/vector.hh
+ /home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/src/Rotor.cpp
 CMakeFiles/a.out.dir/src/Scene.cpp.o
  ../inc/Model.hh
  ../inc/Player.hh
@@ -28,6 +37,7 @@ CMakeFiles/a.out.dir/src/Scene.cpp.o
  ../inc/Scene.hh
  ../inc/fps.hh
  ../inc/gnuplot_link.hh
+ ../inc/rotor.hh
  ../inc/vector.hh
  /home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/src/Scene.cpp
 CMakeFiles/a.out.dir/src/gnuplot_link.cpp.o
@@ -40,5 +50,6 @@ CMakeFiles/a.out.dir/src/main.cpp.o
  ../inc/Scene.hh
  ../inc/fps.hh
  ../inc/gnuplot_link.hh
+ ../inc/rotor.hh
  ../inc/vector.hh
  /home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/src/main.cpp

@@ -204,6 +204,33 @@ src/Rectangle.cpp.s:
 	$(MAKE) -f CMakeFiles/a.out.dir/build.make CMakeFiles/a.out.dir/src/Rectangle.cpp.s
 .PHONY : src/Rectangle.cpp.s
 
+src/Rotor.o: src/Rotor.cpp.o
+
+.PHONY : src/Rotor.o
+
+# target to build an object file
+src/Rotor.cpp.o:
+	$(MAKE) -f CMakeFiles/a.out.dir/build.make CMakeFiles/a.out.dir/src/Rotor.cpp.o
+.PHONY : src/Rotor.cpp.o
+
+src/Rotor.i: src/Rotor.cpp.i
+
+.PHONY : src/Rotor.i
+
+# target to preprocess a source file
+src/Rotor.cpp.i:
+	$(MAKE) -f CMakeFiles/a.out.dir/build.make CMakeFiles/a.out.dir/src/Rotor.cpp.i
+.PHONY : src/Rotor.cpp.i
+
+src/Rotor.s: src/Rotor.cpp.s
+
+.PHONY : src/Rotor.s
+
+# target to generate assembly for a file
+src/Rotor.cpp.s:
+	$(MAKE) -f CMakeFiles/a.out.dir/build.make CMakeFiles/a.out.dir/src/Rotor.cpp.s
+.PHONY : src/Rotor.cpp.s
+
 src/Scene.o: src/Scene.cpp.o
 
 .PHONY : src/Scene.o
@@ -303,6 +330,9 @@ help:
 	@echo "... src/Rectangle.o"
 	@echo "... src/Rectangle.i"
 	@echo "... src/Rectangle.s"
+	@echo "... src/Rotor.o"
+	@echo "... src/Rotor.i"
+	@echo "... src/Rotor.s"
 	@echo "... src/Scene.o"
 	@echo "... src/Scene.i"
 	@echo "... src/Scene.s"

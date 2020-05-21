@@ -129,9 +129,33 @@ CMakeFiles/a.out.dir/src/Rectangle.cpp.o.provides: CMakeFiles/a.out.dir/src/Rect
 CMakeFiles/a.out.dir/src/Rectangle.cpp.o.provides.build: CMakeFiles/a.out.dir/src/Rectangle.cpp.o
 
 
+CMakeFiles/a.out.dir/src/Rotor.cpp.o: CMakeFiles/a.out.dir/flags.make
+CMakeFiles/a.out.dir/src/Rotor.cpp.o: ../src/Rotor.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/a.out.dir/src/Rotor.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/a.out.dir/src/Rotor.cpp.o -c /home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/src/Rotor.cpp
+
+CMakeFiles/a.out.dir/src/Rotor.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/a.out.dir/src/Rotor.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/src/Rotor.cpp > CMakeFiles/a.out.dir/src/Rotor.cpp.i
+
+CMakeFiles/a.out.dir/src/Rotor.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/a.out.dir/src/Rotor.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/src/Rotor.cpp -o CMakeFiles/a.out.dir/src/Rotor.cpp.s
+
+CMakeFiles/a.out.dir/src/Rotor.cpp.o.requires:
+
+.PHONY : CMakeFiles/a.out.dir/src/Rotor.cpp.o.requires
+
+CMakeFiles/a.out.dir/src/Rotor.cpp.o.provides: CMakeFiles/a.out.dir/src/Rotor.cpp.o.requires
+	$(MAKE) -f CMakeFiles/a.out.dir/build.make CMakeFiles/a.out.dir/src/Rotor.cpp.o.provides.build
+.PHONY : CMakeFiles/a.out.dir/src/Rotor.cpp.o.provides
+
+CMakeFiles/a.out.dir/src/Rotor.cpp.o.provides.build: CMakeFiles/a.out.dir/src/Rotor.cpp.o
+
+
 CMakeFiles/a.out.dir/src/Scene.cpp.o: CMakeFiles/a.out.dir/flags.make
 CMakeFiles/a.out.dir/src/Scene.cpp.o: ../src/Scene.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/a.out.dir/src/Scene.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/a.out.dir/src/Scene.cpp.o"
 	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/a.out.dir/src/Scene.cpp.o -c /home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/src/Scene.cpp
 
 CMakeFiles/a.out.dir/src/Scene.cpp.i: cmake_force
@@ -155,7 +179,7 @@ CMakeFiles/a.out.dir/src/Scene.cpp.o.provides.build: CMakeFiles/a.out.dir/src/Sc
 
 CMakeFiles/a.out.dir/src/gnuplot_link.cpp.o: CMakeFiles/a.out.dir/flags.make
 CMakeFiles/a.out.dir/src/gnuplot_link.cpp.o: ../src/gnuplot_link.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/a.out.dir/src/gnuplot_link.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/a.out.dir/src/gnuplot_link.cpp.o"
 	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/a.out.dir/src/gnuplot_link.cpp.o -c /home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/src/gnuplot_link.cpp
 
 CMakeFiles/a.out.dir/src/gnuplot_link.cpp.i: cmake_force
@@ -179,7 +203,7 @@ CMakeFiles/a.out.dir/src/gnuplot_link.cpp.o.provides.build: CMakeFiles/a.out.dir
 
 CMakeFiles/a.out.dir/src/main.cpp.o: CMakeFiles/a.out.dir/flags.make
 CMakeFiles/a.out.dir/src/main.cpp.o: ../src/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/a.out.dir/src/main.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/a.out.dir/src/main.cpp.o"
 	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/a.out.dir/src/main.cpp.o -c /home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/src/main.cpp
 
 CMakeFiles/a.out.dir/src/main.cpp.i: cmake_force
@@ -206,6 +230,7 @@ a_out_OBJECTS = \
 "CMakeFiles/a.out.dir/src/Model.cpp.o" \
 "CMakeFiles/a.out.dir/src/Player.cpp.o" \
 "CMakeFiles/a.out.dir/src/Rectangle.cpp.o" \
+"CMakeFiles/a.out.dir/src/Rotor.cpp.o" \
 "CMakeFiles/a.out.dir/src/Scene.cpp.o" \
 "CMakeFiles/a.out.dir/src/gnuplot_link.cpp.o" \
 "CMakeFiles/a.out.dir/src/main.cpp.o"
@@ -216,12 +241,13 @@ a_out_EXTERNAL_OBJECTS =
 a.out: CMakeFiles/a.out.dir/src/Model.cpp.o
 a.out: CMakeFiles/a.out.dir/src/Player.cpp.o
 a.out: CMakeFiles/a.out.dir/src/Rectangle.cpp.o
+a.out: CMakeFiles/a.out.dir/src/Rotor.cpp.o
 a.out: CMakeFiles/a.out.dir/src/Scene.cpp.o
 a.out: CMakeFiles/a.out.dir/src/gnuplot_link.cpp.o
 a.out: CMakeFiles/a.out.dir/src/main.cpp.o
 a.out: CMakeFiles/a.out.dir/build.make
 a.out: CMakeFiles/a.out.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable a.out"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable a.out"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/a.out.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -232,6 +258,7 @@ CMakeFiles/a.out.dir/build: a.out
 CMakeFiles/a.out.dir/requires: CMakeFiles/a.out.dir/src/Model.cpp.o.requires
 CMakeFiles/a.out.dir/requires: CMakeFiles/a.out.dir/src/Player.cpp.o.requires
 CMakeFiles/a.out.dir/requires: CMakeFiles/a.out.dir/src/Rectangle.cpp.o.requires
+CMakeFiles/a.out.dir/requires: CMakeFiles/a.out.dir/src/Rotor.cpp.o.requires
 CMakeFiles/a.out.dir/requires: CMakeFiles/a.out.dir/src/Scene.cpp.o.requires
 CMakeFiles/a.out.dir/requires: CMakeFiles/a.out.dir/src/gnuplot_link.cpp.o.requires
 CMakeFiles/a.out.dir/requires: CMakeFiles/a.out.dir/src/main.cpp.o.requires

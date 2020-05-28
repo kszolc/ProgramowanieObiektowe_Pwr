@@ -8,15 +8,22 @@
 #include "Player.hh"
 #include "Scene.hh"
 #include "gnuplot_link.hh"
+#include "BoxCollider.hh"
 
 using namespace std;
 
 
 int Model::count = 0;
 int Model::meshes = 0;
+vector<Vector3> SphereCollider::colliders;
+vector<double> SphereCollider::radius;
+vector<string> SphereCollider::names;
+string SphereCollider::nameOfCollision;
+bool SphereCollider::stopMoving;
 double Ftime::fps = 1;
 double Ftime::ms = 1000;
 bool Ftime::showFps = 0;
+
 
 int main()
 {

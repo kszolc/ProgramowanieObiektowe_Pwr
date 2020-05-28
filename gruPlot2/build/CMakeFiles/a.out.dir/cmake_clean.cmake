@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/a.out.dir/src/BoxCollider.cpp.o"
   "CMakeFiles/a.out.dir/src/Model.cpp.o"
   "CMakeFiles/a.out.dir/src/Player.cpp.o"
   "CMakeFiles/a.out.dir/src/Rectangle.cpp.o"

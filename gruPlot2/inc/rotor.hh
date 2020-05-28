@@ -1,7 +1,11 @@
 #include "Model.hh"
 
-class Rotor : public Model {
+class Rotor : public Model
+{
+private:
+  Ftime fps;
+  Vector3 CalcRotate();
 
-    public:
-    void ApplyShift();
+public:
+  void ApplyShift();
 };

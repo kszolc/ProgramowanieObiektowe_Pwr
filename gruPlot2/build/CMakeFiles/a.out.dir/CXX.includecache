@@ -6,6 +6,16 @@
 
 #IncludeRegexTransform: 
 
+../inc/BoxCollider.hh
+vector
+-
+string
+-
+vector.hh
+../inc/vector.hh
+Model.hh
+../inc/Model.hh
+
 ../inc/Model.hh
 Rectangle.hh
 ../inc/Rectangle.hh
@@ -27,6 +37,8 @@ Model.hh
 ../inc/Model.hh
 rotor.hh
 ../inc/rotor.hh
+BoxCollider.hh
+../inc/BoxCollider.hh
 
 ../inc/Rectangle.hh
 iostream
@@ -49,6 +61,8 @@ Player.hh
 ../inc/Player.hh
 Model.hh
 ../inc/Model.hh
+BoxCollider.hh
+../inc/BoxCollider.hh
 
 ../inc/fps.hh
 iostream
@@ -73,6 +87,10 @@ iostream
 -
 cmath
 -
+
+/home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/src/BoxCollider.cpp
+BoxCollider.hh
+/home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/src/BoxCollider.hh
 
 /home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/src/Model.cpp
 Model.hh
@@ -135,4 +153,6 @@ Scene.hh
 /home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/src/Scene.hh
 gnuplot_link.hh
 /home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/src/gnuplot_link.hh
+BoxCollider.hh
+/home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/src/BoxCollider.hh
 

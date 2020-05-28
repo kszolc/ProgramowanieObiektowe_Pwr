@@ -16,7 +16,7 @@ std::ostream &operator<<(std::ostream &stream, const Rectangle &rect)
     stream << rect.point[i];
   stream << rect.point[0];
   stream << std::endl
-     //    << "#\n"
+         //    << "#\n"
          << std::endl;
   return stream;
 }
@@ -40,11 +40,25 @@ Rectangle Rectangle::operator*(Vector3 angle)
   return result;
 }
 
-Vector3 calculateRotation(Vector3 point, Vector3 angle){
-  double rad = angle.value[0] * M_PI /180;
+Vector3 calculateRotation(Vector3 point, Vector3 angle)
+{
+  double rad;
   Vector3 result;
+
+  rad = angle.value[0] * M_PI / 180;
   result.value[0] = cos(rad) * point.value[0] + sin(rad) * point.value[1];
   result.value[1] = -sin(rad) * point.value[0] + cos(rad) * point.value[1];
   result.value[2] = point.value[2];
+  if (fabs(angle.value[1]) > 0.5)
+  {
+    rad = angle.value[1] * M_PI / 180;
+    Vector3 result2;
+    std::cout << rad << std::endl;
+    result2.value[0] = cos(rad) * result.value[0] -sin(rad) * result.value[2];
+    result2.value[2] = sin(rad) * result.value[0] + cos(rad) * result.value[2];
+    result2.value[1] = result.value[1];
+
+    return result2;
+  }
   return result;
 }

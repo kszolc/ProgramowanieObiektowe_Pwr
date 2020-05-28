@@ -23,18 +23,24 @@ void Scene::Start()
   models.push_back(placeholder);
   placeholder.rect.clear();
   placeholder.LoadFromFile("plant.dat");
-  placeholder.position.value[0] = 100;
+  placeholder.position.value[0] = 00;
   placeholder.position.value[1] = 150;
   placeholder.position.value[2] = -100;
-     placeholder.rotation.value[0] = 15;
-  models.push_back(placeholder);
+  placeholder.rotation.value[0] = 15;
+    models.push_back(placeholder);
+    placeholder.position.value[2] = 0;
+  collider.setSphereCollider(placeholder.position, 10,"Plant");
+
   placeholder.rect.clear();
   placeholder.LoadFromFile("plant.dat");
   placeholder.position.value[0] = -100;
   placeholder.position.value[1] = -220;
   placeholder.position.value[2] = -100;
-   placeholder.rotation.value[0] = -40;
+  placeholder.rotation.value[0] = -40;
+
   models.push_back(placeholder);
+  placeholder.position.value[2] = 0;
+    collider.setSphereCollider(placeholder.position, 10,"Plant");
   placeholder.rect.clear();
   player.Update();
   for (int i = 0; i < models.size(); i++)
@@ -47,6 +53,7 @@ void Scene::Start()
 bool Scene::Update()
 {
   Vector3 mov;
+  double movDouble;
   std::string c;
   fps.measure();
   player.Update();
@@ -69,17 +76,18 @@ bool Scene::Update()
     std::cin >> c;
     if (c == "m")
     {
-      std::cout << "Write vector you want box to move\n  ->  ";
-      std::cin >> mov;
+      std::cout << "Write distance you want to move\n  ->  ";
+      std::cin >> movDouble;
+
       fps.measure();
-      player.Move(mov);
+      player.Move((movDouble));
     }
     else if (c == "r")
     {
-      std::cout << "Write vector you want box to rotate (last two numbers will be ignored)\n  ->  ";
-      std::cin >> mov;
+      std::cout << "Write angle you want box to rotate (last two numbers will be ignored)\n  ->  ";
+      std::cin >> movDouble;
       fps.measure();
-      player.Rotate(mov);
+      player.Rotate(movDouble);
     }
     else if (c == "e")
     {
@@ -90,6 +98,7 @@ bool Scene::Update()
       std::cout << "Choose one of options!";
     }
   }
+  collider.CheckCollision();
   link.Draw();
   return 1;
 }

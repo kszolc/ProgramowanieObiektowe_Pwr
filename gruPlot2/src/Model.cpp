@@ -60,7 +60,7 @@ bool Model::PutToFile(Vector3 shift, Vector3 angle)
               << ".dat failed!" << std::endl;
     return false;
   }
- // std::cout << rotation;
+ //  std::cout << rotation << std::endl;
   for (int i = 0; i < rect.size(); i++)
     file_stream << rect[i] * rotation + shift;
   return true;
@@ -68,7 +68,7 @@ bool Model::PutToFile(Vector3 shift, Vector3 angle)
 
 void Model::Draw()
 {
-  PutToFile(position,rotation);
+  PutToFile(position, rotation);
   std::string filename = "../models/tmp/" + std::to_string(id) + ".dat";
   char cstr[512];
   std::strcpy(cstr, filename.c_str());
@@ -77,30 +77,44 @@ void Model::Draw()
 
 const bool Model::achivedDestination()
 {
-  if (abs(posDest.length() - position.length()) < 0.5)
+
+  double newAbs;
+  newAbs = fabs(posDest.length() - position.length());
+/*
+  std::cout << "\n\n New/Prev   " << newAbs << " / " << std::endl;
+  std::cout << "Destination:   " << posDest.length() << std::endl
+            << "Position:    " << position.length() << std::endl;
+  std::cout << "fabs difference: " << fabs(posDest.length() - position.length()) << std::endl;
+  */
+  if (newAbs < 1)
   {
-    for (int i = 0; i < 3; i++)
+    /* for (int i = 0; i < 3; i++)
     {
-      if (abs(posDest.value[i] - position.value[i]) > 0.5)
+      if ((posDest.value[i] - position.value[i]) > 0.5)
       {
         return false;
       }
-    }
+    } */
     return true;
-  }else return false;
+  }
+
+  return false;
 }
 
 const bool Model::achivedRotationDestination()
 {
-  if (abs(rotDest.length() - rotation.length()) < 0.5)
+  if (fabs(rotDest.length() - rotation.length()) < 1)
   {
+    /*
     for (int i = 0; i < 3; i++)
     {
-      if (abs(rotDest.value[i] - rotation.value[i]) > 0.5)
+      if ((rotDest.value[i] - rotation.value[i]) > 0.5)
       {
         return false;
       }
-    }
+    }*/
     return true;
-  }else return false;
+  }
+
+  return false;
 }

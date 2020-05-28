@@ -123,6 +123,33 @@ a.out/fast:
 	$(MAKE) -f CMakeFiles/a.out.dir/build.make CMakeFiles/a.out.dir/build
 .PHONY : a.out/fast
 
+src/BoxCollider.o: src/BoxCollider.cpp.o
+
+.PHONY : src/BoxCollider.o
+
+# target to build an object file
+src/BoxCollider.cpp.o:
+	$(MAKE) -f CMakeFiles/a.out.dir/build.make CMakeFiles/a.out.dir/src/BoxCollider.cpp.o
+.PHONY : src/BoxCollider.cpp.o
+
+src/BoxCollider.i: src/BoxCollider.cpp.i
+
+.PHONY : src/BoxCollider.i
+
+# target to preprocess a source file
+src/BoxCollider.cpp.i:
+	$(MAKE) -f CMakeFiles/a.out.dir/build.make CMakeFiles/a.out.dir/src/BoxCollider.cpp.i
+.PHONY : src/BoxCollider.cpp.i
+
+src/BoxCollider.s: src/BoxCollider.cpp.s
+
+.PHONY : src/BoxCollider.s
+
+# target to generate assembly for a file
+src/BoxCollider.cpp.s:
+	$(MAKE) -f CMakeFiles/a.out.dir/build.make CMakeFiles/a.out.dir/src/BoxCollider.cpp.s
+.PHONY : src/BoxCollider.cpp.s
+
 src/Model.o: src/Model.cpp.o
 
 .PHONY : src/Model.o
@@ -321,6 +348,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... a.out"
 	@echo "... edit_cache"
+	@echo "... src/BoxCollider.o"
+	@echo "... src/BoxCollider.i"
+	@echo "... src/BoxCollider.s"
 	@echo "... src/Model.o"
 	@echo "... src/Model.i"
 	@echo "... src/Model.s"

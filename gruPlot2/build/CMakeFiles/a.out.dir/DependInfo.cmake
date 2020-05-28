@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/src/BoxCollider.cpp" "/home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/build/CMakeFiles/a.out.dir/src/BoxCollider.cpp.o"
   "/home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/src/Model.cpp" "/home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/build/CMakeFiles/a.out.dir/src/Model.cpp.o"
   "/home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/src/Player.cpp" "/home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/build/CMakeFiles/a.out.dir/src/Player.cpp.o"
   "/home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/src/Rectangle.cpp" "/home/konrad/Dokumenty/ZadaniaPO/ZadaniaPO/gruPlot2/build/CMakeFiles/a.out.dir/src/Rectangle.cpp.o"

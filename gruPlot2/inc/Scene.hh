@@ -7,6 +7,7 @@
 #include "fps.hh"
 #include "Player.hh"
 #include "Model.hh"
+#include "BoxCollider.hh"
 
 /**
  * @brief Class what operates all objects
@@ -15,6 +16,7 @@
  */
 class Scene
 {
+  SphereCollider collider;
   /**
    * @brief instance of time managing class
    * 

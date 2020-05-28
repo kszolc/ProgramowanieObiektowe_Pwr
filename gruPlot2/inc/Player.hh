@@ -2,6 +2,7 @@
 
 #include "Model.hh"
 #include "rotor.hh"
+#include "BoxCollider.hh"
 /**
  * @brief Class what defines all required information of player, its movvement etc
  * 
@@ -11,6 +12,7 @@ class Player : public Model
 private:
   Vector3 defPos[2];
   Rotor rotor[2];
+  SphereCollider collider;
   /**
    * @brief position before movement
    * 
@@ -60,24 +62,24 @@ public:
    * @brief speed of dynamic movement
    * 
    */
-  float movementSpeed = 30;
+  float movementSpeed = 10;
   /**
    * @brief change position of object
    * 
    * dynamicMovement() makes it smooth instead of teleporting 
-   * @param movementVector vector we want object to move
+   * @param  shift distance we want to move forward
    * @return true - all good
    * @return false - not good
    */
-  bool Move(Vector3 movementVector);
+  bool Move(double shift);
   /**
    * @brief change rotation of object
    * dynamicMovement() makes it smooth instead of teleporting 
-   * @param rotateVector vector we want our object rotate
+   * @param rotateAngle angle we want our object rotate
    * @return true - all good
    * @return false - not good
    */
-  bool Rotate(Vector3 rotateVector);
+  bool Rotate(double rotateAngle);
   /**
    * @brief Updating position and rendering it
    * 
